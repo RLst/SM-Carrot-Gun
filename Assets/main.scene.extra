@@ -120,66 +120,6 @@
   },
   {
     "guid": {
-      "a": "41ea0582-0b3e-e3c7-0bbd-6d2be48e70fb",
-      "b": ""
-    },
-    "objGuid": "Guid(12127222288703659824, 400517816867403395)",
-    "extraType": "Entity",
-    "name": "2D Camera",
-    "rttiType": "Entity",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "expanded": true,
-    "type": "none",
-    "uniqueSign": "Camera2D"
-  },
-  {
-    "guid": {
-      "a": "419cf85b-34f3-54c6-c452-a2c27fdf5f0e",
-      "b": ""
-    },
-    "objGuid": "Guid(15152946653230628522, 17048859989575633053)",
-    "extraType": "Transform",
-    "name": "Transform",
-    "eulerAngle": [
-      0,
-      0,
-      0
-    ],
-    "rotation": [
-      0,
-      0,
-      0,
-      1
-    ],
-    "rttiType": "Transform",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "displayKey": "component_transform",
-    "expanded": true,
-    "editable": true
-  },
-  {
-    "guid": {
-      "a": "19fb2a62-fb1b-f900-02bb-f529929ac2b6",
-      "b": ""
-    },
-    "objGuid": "Guid(4415666119063328862, 16711414287509882798)",
-    "extraType": "Camera",
-    "name": "Camera",
-    "rttiType": "Camera",
-    "version": "0.2.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "displayKey": "inspector_add_camera",
-    "expanded": true,
-    "editable": true,
-    "usage": "2D"
-  },
-  {
-    "guid": {
       "a": "aac0b8a5-fa9d-e57b-647d-14ff226f7cdc",
       "b": ""
     },
@@ -199,6 +139,33 @@
       "b": ""
     },
     "objGuid": "Guid(5642658560066112256, 17172388507445729976)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "aebd5168-37c2-0ac3-c2d7-bb977366995c",
+      "b": ""
+    },
+    "objGuid": "Guid(15798647828338859458, 8095345269444466305)",
     "extraType": "IFTransform2d",
     "name": "2D Transform",
     "eulerAngle": [
@@ -361,6 +328,39 @@
       "b": ""
     },
     "objGuid": "Guid(14936719258435715262, 6903410828695299489)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "00000000-0000-0000-0000-00000000003e"
+  },
+  {
+    "guid": {
+      "a": "a9d38ae0-964c-2d98-6296-7582d89d1ee8",
+      "b": ""
+    },
+    "objGuid": "Guid(237776842598352533, 2715768622878610603)",
+    "extraType": "Entity",
+    "name": "Bullet",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "0158a807-76ad-067d-d475-f8c315aa0092",
+      "b": ""
+    },
+    "objGuid": "Guid(10901930278994222297, 12224116929274106240)",
     "extraType": "IFSprite2d",
     "name": "Image",
     "rttiType": "IFSprite2d",

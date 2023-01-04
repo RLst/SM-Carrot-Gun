@@ -1,0 +1,40 @@
+{
+	"name": "Sin",
+	"id": "f885cf29-a3a1-3bf8-68af-482609e36ff0",
+	"inputs": [
+		{
+			"name": "A",
+			"type": "Double",
+			"item_type": "",
+			"default_value": "0",
+			"dynamic": true,
+			"description": "The input value in radians",
+			"displayType": "Number"
+		}
+	],
+	"outputs": [
+		{
+			"name": "Sin",
+			"type": "Double",
+			"item_type": "",
+			"dynamic": true,
+			"description": "The sine of the input value",
+			"displayType": "Number"
+		}
+	],
+	"lua": "CGSin.lua",
+	"js": "CGSin.js",
+	"version": "1.0.1",
+	"luaFuncName": "CGSin",
+	"category": "Math",
+	"description": "Calculate the sine of the input value.",
+	"supportedValueTypes": [
+		"Double",
+		"Int"
+	],
+	"productTypes": [
+		"InHouse",
+		"Domestic",
+		"TTEH"
+	]
+}
