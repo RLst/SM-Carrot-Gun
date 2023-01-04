@@ -1,0 +1,18 @@
+
+Oscillating cannon
+==================
+
+Linear
+- Rotate Z
+
+Sinoidal
+- Rotate using sin
+
+
+
+
+Subgraphs required
+==================
+LookAt(rotation
+
+Translate()
