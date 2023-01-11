@@ -1,0 +1,57 @@
+// Game Flow and Mechanics
+// =========================
+
+√ - The users face shall appear behind in the back
+
+√ - A cannon object will be oscillating back and forth, aiming towards some target objects on the right side of the screen
+
+3h - The targets are placed randomly and their swimming circle is calculated...
+  - At least a certain minimum distance from each other
+  - A minimum distance from the edge of the screen
+  - At least a minimum distance from the player
+  - Their swimming circle radius will be set randomly within a range but not greater than the distance to the edge of the screen
+
+√ - The user fires the gun by opening their mouth
+  √ - Only one projectile at a time
+  10m - During a shot the gun must stop oscillating
+  30m - If the projectile doesn't hit anything it just keeps going until it goes out of the screen
+    30m - Once the projectile is offscreen the gun is able to move and fire again
+
+2h - Once a target is hit:
+  - Game will momentarily pause
+  - Animate: Shake, glow, shine, explode, disappear, etc
+  - Topic text of the fish will appear where the fish is
+  - Topic text and random message will appear on the user's head, 3 seconds so they can read it
+  - Once the text disappears the game will resume
+  - Game will continue until all targets are hit
+
+Game ending
+  - Once all targets are hit, a results plaque will be displayed
+
+
+Oscillating cannon
+==================
+• Linear
+  Rotate Z
+• Sinoidal
+  Rotate using sin
+• Tweening
+  Use "Transit in Time" nodes
+
+Functionality required
+==================
+Shoot
+1. Position and rotate object at desired muzzle point
+2. For every frame move forward by a specified amount in the facing direction
+  Velocity
+  bullet.pos.x = bullet.pos.x + cos(bullet.rotation) * speed * Time.deltaTime;
+  bullet.pos.y = bullet.pos.y + sin(bullet.rotation) * speed * Time.deltaTime;
+
+  bullet.movement = cos/sin(bullet.rotation) * speed * Time.deltaTime;
+
+
+  position = curPosition;
+  velocity = newVelocity;
+
+  newVelocity = velocity + gravity * Time.deltaTime;
+  newPosition = position + velocity * Time.deltaTime;

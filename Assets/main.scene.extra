@@ -465,72 +465,6 @@
   },
   {
     "guid": {
-      "a": "a93a0d22-e7ec-7a27-91eb-399fca718c68",
-      "b": ""
-    },
-    "objGuid": "Guid(3766610628606199642, 12152079839410913683)",
-    "extraType": "Entity",
-    "name": "Targets",
-    "rttiType": "Entity",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "expanded": true,
-    "type": "none"
-  },
-  {
-    "guid": {
-      "a": "60647e6b-8692-fb33-2df6-3a6d303036f4",
-      "b": ""
-    },
-    "objGuid": "Guid(6290988227028115093, 15427824066560413068)",
-    "extraType": "IFSprite2d",
-    "name": "Image",
-    "rttiType": "IFSprite2d",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "displayKey": "inspector_add_image",
-    "expanded": true,
-    "editable": true,
-    "advanced": true,
-    "texture": "00000000-0000-0000-0000-00000000003e"
-  },
-  {
-    "guid": {
-      "a": "3a31a373-5b31-e754-6491-eef51b4697cd",
-      "b": ""
-    },
-    "objGuid": "Guid(2684194975315057086, 3649996925551987902)",
-    "extraType": "Entity",
-    "name": "Target (1)",
-    "rttiType": "Entity",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "expanded": true,
-    "type": "none"
-  },
-  {
-    "guid": {
-      "a": "569e7190-17c4-0e90-2432-1b2e0b5d88d4",
-      "b": ""
-    },
-    "objGuid": "Guid(12268555650772351952, 4843639027625096873)",
-    "extraType": "IFSprite2d",
-    "name": "Image",
-    "rttiType": "IFSprite2d",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "displayKey": "inspector_add_image",
-    "expanded": true,
-    "editable": true,
-    "advanced": true,
-    "texture": "00000000-0000-0000-0000-00000000003e"
-  },
-  {
-    "guid": {
       "a": "75eb0f9d-bbe6-47eb-2132-7b4abaa01b06",
       "b": ""
     },
@@ -663,12 +597,12 @@
   },
   {
     "guid": {
-      "a": "7fd049f1-12e3-a1b1-054f-4dcdbed686bb",
+      "a": "a93a0d22-e7ec-7a27-91eb-399fca718c68",
       "b": ""
     },
-    "objGuid": "Guid(1174288015880386457, 9364639030158552234)",
+    "objGuid": "Guid(3766610628606199642, 12152079839410913683)",
     "extraType": "Entity",
-    "name": "Target (2)",
+    "name": "Targets",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -678,10 +612,10 @@
   },
   {
     "guid": {
-      "a": "566b5964-d5f4-babe-dca2-181754debc8d",
+      "a": "60647e6b-8692-fb33-2df6-3a6d303036f4",
       "b": ""
     },
-    "objGuid": "Guid(5710693476780336986, 10285537610890745014)",
+    "objGuid": "Guid(6290988227028115093, 15427824066560413068)",
     "extraType": "IFSprite2d",
     "name": "Image",
     "rttiType": "IFSprite2d",
@@ -696,12 +630,12 @@
   },
   {
     "guid": {
-      "a": "f95350f8-2d32-9fd1-f9b4-c5c3e81cbdc3",
+      "a": "20c5b5e1-fbe3-f35f-a446-24b00e656ae1",
       "b": ""
     },
-    "objGuid": "Guid(235232399041233086, 17737515741510824357)",
+    "objGuid": "Guid(14072399475473064276, 12109571043501986730)",
     "extraType": "Entity",
-    "name": "Target (3)",
+    "name": "Target (5)",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -711,10 +645,10 @@
   },
   {
     "guid": {
-      "a": "e77140a4-b91e-ba0c-98cf-32135604de60",
+      "a": "7683e890-17a4-02d1-6710-7bd472bd04d3",
       "b": ""
     },
-    "objGuid": "Guid(7299545478542487242, 18378244239794821808)",
+    "objGuid": "Guid(8016616261205824396, 110848419569918877)",
     "extraType": "IFSprite2d",
     "name": "Image",
     "rttiType": "IFSprite2d",
@@ -762,12 +696,12 @@
   },
   {
     "guid": {
-      "a": "20c5b5e1-fbe3-f35f-a446-24b00e656ae1",
+      "a": "f95350f8-2d32-9fd1-f9b4-c5c3e81cbdc3",
       "b": ""
     },
-    "objGuid": "Guid(14072399475473064276, 12109571043501986730)",
+    "objGuid": "Guid(235232399041233086, 17737515741510824357)",
     "extraType": "Entity",
-    "name": "Target (5)",
+    "name": "Target (3)",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -777,10 +711,76 @@
   },
   {
     "guid": {
-      "a": "7683e890-17a4-02d1-6710-7bd472bd04d3",
+      "a": "e77140a4-b91e-ba0c-98cf-32135604de60",
       "b": ""
     },
-    "objGuid": "Guid(8016616261205824396, 110848419569918877)",
+    "objGuid": "Guid(7299545478542487242, 18378244239794821808)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": true,
+    "texture": "00000000-0000-0000-0000-00000000003e"
+  },
+  {
+    "guid": {
+      "a": "7fd049f1-12e3-a1b1-054f-4dcdbed686bb",
+      "b": ""
+    },
+    "objGuid": "Guid(1174288015880386457, 9364639030158552234)",
+    "extraType": "Entity",
+    "name": "Target (2)",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "566b5964-d5f4-babe-dca2-181754debc8d",
+      "b": ""
+    },
+    "objGuid": "Guid(5710693476780336986, 10285537610890745014)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": true,
+    "texture": "00000000-0000-0000-0000-00000000003e"
+  },
+  {
+    "guid": {
+      "a": "3a31a373-5b31-e754-6491-eef51b4697cd",
+      "b": ""
+    },
+    "objGuid": "Guid(2684194975315057086, 3649996925551987902)",
+    "extraType": "Entity",
+    "name": "Target (1)",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "569e7190-17c4-0e90-2432-1b2e0b5d88d4",
+      "b": ""
+    },
+    "objGuid": "Guid(12268555650772351952, 4843639027625096873)",
     "extraType": "IFSprite2d",
     "name": "Image",
     "rttiType": "IFSprite2d",
