@@ -22,12 +22,12 @@ Complete - The user fires the gun by opening their mouth
 
 Oscillating cannon
 ==================
-Linear
-- Rotate Z
-
-Sinoidal
-- Rotate using sin
-
+• Linear
+  Rotate Z
+• Sinoidal
+  Rotate using sin
+• Tweening
+  Use "Transit in Time" nodes
 
 Functionality required
 ==================
