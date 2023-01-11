@@ -432,6 +432,33 @@
   },
   {
     "guid": {
+      "a": "067f4524-58d0-3503-3ea0-d439f2f162c5",
+      "b": ""
+    },
+    "objGuid": "Guid(14213922353134989211, 4988252906484087450)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "91593b96-6cb9-9e82-d4fe-5e0a9bd15fdc",
       "b": ""
     },
@@ -569,7 +596,7 @@
     },
     "objGuid": "Guid(5783300340838955080, 1290100804550208149)",
     "extraType": "Entity",
-    "name": "Collider",
+    "name": "Bullet Collider",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -781,6 +808,39 @@
       "b": ""
     },
     "objGuid": "Guid(12268555650772351952, 4843639027625096873)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": true,
+    "texture": "00000000-0000-0000-0000-00000000003e"
+  },
+  {
+    "guid": {
+      "a": "bb5bd65c-9a37-6070-b7f8-964ea1747a16",
+      "b": ""
+    },
+    "objGuid": "Guid(11547807909078890602, 2949366989690104235)",
+    "extraType": "Entity",
+    "name": "Target (6)",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "f80b36dc-5d5b-4ba5-e5ac-79c9c5e78ab4",
+      "b": ""
+    },
+    "objGuid": "Guid(20231081933559012, 8352405708809210281)",
     "extraType": "IFSprite2d",
     "name": "Image",
     "rttiType": "IFSprite2d",
