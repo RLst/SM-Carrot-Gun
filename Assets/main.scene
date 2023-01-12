@@ -178,7 +178,7 @@ entities:
           value: Normal
         blendAlpha: 1
         blendAlphaCkeck: true
-        drawCallNum: 14
+        drawCallNum: 6
         maskType:
           __class: IFMaskType
           value: None
@@ -451,7 +451,7 @@ entities:
         freeInited: false
     layer: 1
   - __class: Entity
-    name: Origin 5
+    name: Origin 4
     guid: {a: 14072399475473064276, b: 12109571043501986730}
     scene: {localId: 1}
     selfvisible: true
@@ -460,7 +460,7 @@ entities:
       - __class: IFSprite2d
         name: ""
         guid: {a: 8016616261205824396, b: 110848419569918877}
-        enabled: true
+        enabled: false
         alpha: 1
         cascadeAlphaEnabled: false
         type:
@@ -502,7 +502,7 @@ entities:
         freeInited: false
     layer: 1
   - __class: Entity
-    name: Origin 4
+    name: Origin 3
     guid: {a: 4918338322118344862, b: 6019051706380705463}
     scene: {localId: 1}
     selfvisible: true
@@ -511,7 +511,7 @@ entities:
       - __class: IFSprite2d
         name: ""
         guid: {a: 3480781227748376930, b: 14273224951944291207}
-        enabled: true
+        enabled: false
         alpha: 1
         cascadeAlphaEnabled: false
         type:
@@ -553,7 +553,7 @@ entities:
         freeInited: false
     layer: 1
   - __class: Entity
-    name: Origin 3
+    name: Origin 2
     guid: {a: 235232399041233086, b: 17737515741510824357}
     scene: {localId: 1}
     selfvisible: true
@@ -562,7 +562,7 @@ entities:
       - __class: IFSprite2d
         name: ""
         guid: {a: 7299545478542487242, b: 18378244239794821808}
-        enabled: true
+        enabled: false
         alpha: 1
         cascadeAlphaEnabled: false
         type:
@@ -604,7 +604,7 @@ entities:
         freeInited: false
     layer: 1
   - __class: Entity
-    name: Origin 2
+    name: Origin 1
     guid: {a: 1174288015880386457, b: 9364639030158552234}
     scene: {localId: 1}
     selfvisible: true
@@ -613,7 +613,7 @@ entities:
       - __class: IFSprite2d
         name: ""
         guid: {a: 5710693476780336986, b: 10285537610890745014}
-        enabled: true
+        enabled: false
         alpha: 1
         cascadeAlphaEnabled: false
         type:
@@ -1168,7 +1168,7 @@ entities:
           value: None
     layer: 1
   - __class: Entity
-    name: Origin 1
+    name: Origin 0
     guid: {a: 4057178020244496548, b: 2158849634527744393}
     scene: {localId: 1}
     selfvisible: true
@@ -1177,7 +1177,7 @@ entities:
       - __class: IFSprite2d
         name: ""
         guid: {a: 7948621638154338369, b: 4971373891254602378}
-        enabled: true
+        enabled: false
         alpha: 1
         cascadeAlphaEnabled: false
         type:
@@ -1219,77 +1219,7 @@ entities:
         freeInited: false
     layer: 1
   - __class: Entity
-    name: texture (1)
-    guid: {a: 1030543099219965960, b: 8605900828175975556}
-    scene: {localId: 1}
-    selfvisible: true
-    components:
-      - {localId: 35}
-      - __class: IFSprite2d
-        name: ""
-        guid: {a: 2759909197594950619, b: 15106351247870309760}
-        enabled: true
-        alpha: 1
-        cascadeAlphaEnabled: false
-        type:
-          __class: IFSprite2dType
-          value: Normal
-        sizeMode:
-          __class: IFSprite2dSizeMode
-          value: Custom
-        colorTint: {r: 1, g: 1, b: 1, a: 1}
-        blendMode:
-          __class: IFBlendMode
-          value: Normal
-        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/34.png}
-        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--34.imageatlas}
-        atlasIndex: 0
-        filledType:
-          __class: IFFilledType
-          value: Horizontal
-        filledStartPos: 0
-        filledRange: 1
-        ellipseX: 336
-        ellipseY: 336
-        topLeftPoint: {x: 0, y: 0}
-        topRightPoint: {x: 0, y: 0}
-        bottomLeftPoint: {x: 0, y: 0}
-        bottomRightPoint: {x: 0, y: 0}
-        slicedLeft: 0.1000000014901161
-        slicedRight: 0.8999999761581421
-        slicedBottom: 0.1000000014901161
-        slicedTop: 0.8999999761581421
-        fillCenter: true
-        topLeft: 0.5
-        topRight: 0.5
-        bottomLeft: 0.5
-        bottomRight: 0.5
-        lineWidth: 1
-        lineColor: {r: 1, g: 1, b: 1, a: 1}
-        outer: false
-        sizeInited: true
-        freeInited: false
-      - __class: AnimSeqComponent
-        name: ""
-        guid: {a: 2327306154090858019, b: 16021480315786473398}
-        enabled: true
-        animSeq: {localId: 6, path: 58f11c58-269a-151c-4fbe-3f7c14244181--58f11c58-269a-151c-4fbe-3f7c14244181.seq}
-        texName: Albedo
-        frameName: _MainTex_ST
-        frameRotateName: _Atlas_Rotated
-        frameInnerName: _Atlas_InnerTex_ST
-        playmode:
-          __class: PlayMode
-          value: loop
-        loopCount: -1
-        speed: 51
-        autoplay: true
-        animSeqMap:
-          __class: Map
-          fish_anim: {localId: 6, path: 58f11c58-269a-151c-4fbe-3f7c14244181--58f11c58-269a-151c-4fbe-3f7c14244181.seq}
-    layer: 1
-  - __class: Entity
-    name: texture (2)
+    name: texture 1
     guid: {a: 3120165436084415826, b: 10875941827370029980}
     scene: {localId: 1}
     selfvisible: true
@@ -1311,8 +1241,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/47.png}
-        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--47.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/29.png}
+        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--29.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1359,7 +1289,7 @@ entities:
           fish_anim: {localId: 6, path: 58f11c58-269a-151c-4fbe-3f7c14244181--58f11c58-269a-151c-4fbe-3f7c14244181.seq}
     layer: 1
   - __class: Entity
-    name: texture (3)
+    name: texture 2
     guid: {a: 17676583749054305553, b: 16662513415630848948}
     scene: {localId: 1}
     selfvisible: true
@@ -1381,8 +1311,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/47.png}
-        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--47.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/29.png}
+        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--29.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1429,7 +1359,7 @@ entities:
           fish_anim: {localId: 6, path: 58f11c58-269a-151c-4fbe-3f7c14244181--58f11c58-269a-151c-4fbe-3f7c14244181.seq}
     layer: 1
   - __class: Entity
-    name: texture (4)
+    name: texture 3
     guid: {a: 15658864094863013700, b: 10429505027295251882}
     scene: {localId: 1}
     selfvisible: true
@@ -1451,8 +1381,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/47.png}
-        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--47.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/29.png}
+        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--29.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1499,7 +1429,7 @@ entities:
           fish_anim: {localId: 6, path: 58f11c58-269a-151c-4fbe-3f7c14244181--58f11c58-269a-151c-4fbe-3f7c14244181.seq}
     layer: 1
   - __class: Entity
-    name: texture (5)
+    name: texture 4
     guid: {a: 17673933879810251361, b: 13489141202525381001}
     scene: {localId: 1}
     selfvisible: true
@@ -1521,8 +1451,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/47.png}
-        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--47.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/29.png}
+        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--29.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1569,7 +1499,7 @@ entities:
           fish_anim: {localId: 6, path: 58f11c58-269a-151c-4fbe-3f7c14244181--58f11c58-269a-151c-4fbe-3f7c14244181.seq}
     layer: 1
   - __class: Entity
-    name: Target 1
+    name: Target 0
     guid: {a: 1099925613537339234, b: 3517582947373290930}
     scene: {localId: 1}
     selfvisible: true
@@ -1620,7 +1550,7 @@ entities:
         freeInited: false
     layer: 1
   - __class: Entity
-    name: Target 2
+    name: Target 1
     guid: {a: 4056421091516961389, b: 3578926137209281976}
     scene: {localId: 1}
     selfvisible: true
@@ -1671,7 +1601,7 @@ entities:
         freeInited: false
     layer: 1
   - __class: Entity
-    name: Target 3
+    name: Target 2
     guid: {a: 6793338429216098916, b: 7497609825163266486}
     scene: {localId: 1}
     selfvisible: true
@@ -1722,7 +1652,7 @@ entities:
         freeInited: false
     layer: 1
   - __class: Entity
-    name: Target 4
+    name: Target 3
     guid: {a: 4993140367932613572, b: 4947374759526556821}
     scene: {localId: 1}
     selfvisible: true
@@ -1773,7 +1703,7 @@ entities:
         freeInited: false
     layer: 1
   - __class: Entity
-    name: Target 5
+    name: Target 4
     guid: {a: 2974291753687457234, b: 10108643527746399368}
     scene: {localId: 1}
     selfvisible: true
@@ -1823,12 +1753,82 @@ entities:
         sizeInited: true
         freeInited: false
     layer: 1
+  - __class: Entity
+    name: texture 0
+    guid: {a: 1030543099219965960, b: 8605900828175975556}
+    scene: {localId: 1}
+    selfvisible: true
+    components:
+      - {localId: 35}
+      - __class: IFSprite2d
+        name: ""
+        guid: {a: 2759909197594950619, b: 15106351247870309760}
+        enabled: true
+        alpha: 1
+        cascadeAlphaEnabled: false
+        type:
+          __class: IFSprite2dType
+          value: Normal
+        sizeMode:
+          __class: IFSprite2dSizeMode
+          value: Custom
+        colorTint: {r: 1, g: 1, b: 1, a: 1}
+        blendMode:
+          __class: IFBlendMode
+          value: Normal
+        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/0.png}
+        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--0.imageatlas}
+        atlasIndex: 0
+        filledType:
+          __class: IFFilledType
+          value: Horizontal
+        filledStartPos: 0
+        filledRange: 1
+        ellipseX: 336
+        ellipseY: 336
+        topLeftPoint: {x: 0, y: 0}
+        topRightPoint: {x: 0, y: 0}
+        bottomLeftPoint: {x: 0, y: 0}
+        bottomRightPoint: {x: 0, y: 0}
+        slicedLeft: 0.1000000014901161
+        slicedRight: 0.8999999761581421
+        slicedBottom: 0.1000000014901161
+        slicedTop: 0.8999999761581421
+        fillCenter: true
+        topLeft: 0.5
+        topRight: 0.5
+        bottomLeft: 0.5
+        bottomRight: 0.5
+        lineWidth: 1
+        lineColor: {r: 1, g: 1, b: 1, a: 1}
+        outer: false
+        sizeInited: true
+        freeInited: false
+      - __class: AnimSeqComponent
+        name: ""
+        guid: {a: 2327306154090858019, b: 16021480315786473398}
+        enabled: true
+        animSeq: {localId: 6, path: 58f11c58-269a-151c-4fbe-3f7c14244181--58f11c58-269a-151c-4fbe-3f7c14244181.seq}
+        texName: Albedo
+        frameName: _MainTex_ST
+        frameRotateName: _Atlas_Rotated
+        frameInnerName: _Atlas_InnerTex_ST
+        playmode:
+          __class: PlayMode
+          value: loop
+        loopCount: -1
+        speed: 51
+        autoplay: true
+        animSeqMap:
+          __class: Map
+          fish_anim: {localId: 6, path: 58f11c58-269a-151c-4fbe-3f7c14244181--58f11c58-269a-151c-4fbe-3f7c14244181.seq}
+    layer: 1
 visible: true
 config:
   __class: Map
 msaa:
   __class: MSAAMode
-  value: _4X
+  value: NONE
 jsScriptSystems:
   - js/GraphSystem.js
   - js/EditorInjectSystem.js
@@ -2267,15 +2267,15 @@ depth: -19
 name: ""
 guid: {a: 6215913306444595665, b: 17655704034824672655}
 enabled: true
-localPosition: {x: 0.0625, y: 0, z: 0}
+localPosition: {x: 0.1828125, y: 0, z: 0}
 localScale: {x: 0.4, y: 0.4, z: 1}
-localOrientation: {w: 0.8480481, x: 0, y: 0, z: 0.5299193}
+localOrientation: {w: 0.8141155, x: 0, y: 0, z: 0.580703}
 parent: {localId: 34}
 mobility:
   __class: Mobility
   value: Dynamic
-position: {x: 40, y: 0}
-rotation: 64
+position: {x: 117, y: 0}
+rotation: 71
 scale: {x: 0.4, y: 0.4}
 size: {x: 400, y: 326}
 pivot: {x: 0.5, y: 0.4}
