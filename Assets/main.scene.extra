@@ -2235,7 +2235,7 @@
     "editable": true,
     "sequence": "8b027565-7a4b-68b4-1972-e205132c6aee",
     "targetProperty": "Albedo",
-    "playMode": 1
+    "playMode": 0
   },
   {
     "guid": {
