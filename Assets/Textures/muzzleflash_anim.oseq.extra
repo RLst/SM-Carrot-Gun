@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "f178ff56-0d42-8553-7b16-043a9e59fd56",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "muzzleflash_anim",
+    "objGuid": "Guid(4057135913018617367, 9434245998702391218)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512
+  }
+]

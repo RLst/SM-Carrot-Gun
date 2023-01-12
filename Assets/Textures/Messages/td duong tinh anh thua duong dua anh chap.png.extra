@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "7b947a74-c993-2e49-2482-f944335b654c",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "td duong tinh anh thua duong dua anh chap",
+    "objGuid": "Guid(16232859976900674427, 16474001187826024095)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

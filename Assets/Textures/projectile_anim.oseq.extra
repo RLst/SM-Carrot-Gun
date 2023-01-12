@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "a1868e70-4222-73d8-fd42-ae3cc40a768a",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "projectile_anim",
+    "objGuid": "Guid(5638996663045411964, 9643438692279290001)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512
+  }
+]

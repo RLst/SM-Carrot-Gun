@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "d2d92054-e6c0-8a43-9d9f-dfc137b93ed7",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "hh thi dau dau do hoc hanh hanh thong",
+    "objGuid": "Guid(18104707830467666591, 7889033615729302453)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

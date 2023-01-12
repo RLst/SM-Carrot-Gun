@@ -1,0 +1,13 @@
+[
+  {
+    "guid": {
+      "a": "806a6f70-b0fb-56be-afe1-9e6a08f32f4e",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Numbers",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false
+  }
+]

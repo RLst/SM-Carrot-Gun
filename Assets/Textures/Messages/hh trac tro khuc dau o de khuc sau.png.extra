@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "f319969f-8782-8ced-c571-8785fa5801dc",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "hh trac tro khuc dau o de khuc sau",
+    "objGuid": "Guid(11118950486801559336, 13438813671362517914)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

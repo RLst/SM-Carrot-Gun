@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "694b1ae0-200a-1241-576b-b59f7bd49e30",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "td can tao bao hon",
+    "objGuid": "Guid(16161327299068800660, 10666690494307519627)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

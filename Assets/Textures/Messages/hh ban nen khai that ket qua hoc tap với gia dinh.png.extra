@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "c9a33c24-e6e2-9cda-e5d0-6a498c01f2d2",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "hh ban nen khai that ket qua hoc tap với gia dinh",
+    "objGuid": "Guid(15370050062679136538, 17467638638764805565)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

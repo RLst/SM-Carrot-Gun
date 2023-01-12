@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "b301a161-2f5b-8c5a-9e9b-9fbbd9623d64",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "hh top 2 khong ai top 1",
+    "objGuid": "Guid(16379230848990918800, 10745602142055707291)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]
