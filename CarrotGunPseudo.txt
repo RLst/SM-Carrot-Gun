@@ -13,9 +13,9 @@
 
 √ - The user fires the gun by opening their mouth
   √ - Only one projectile at a time
-  10m - During a shot the gun must stop oscillating
-  30m - If the projectile doesn't hit anything it just keeps going until it goes out of the screen
-    30m - Once the projectile is offscreen the gun is able to move and fire again
+  √ - During a shot the gun must stop oscillating
+  √ - If the projectile doesn't hit anything it just keeps going until it goes out of the screen
+  √ - Once the projectile is offscreen the gun is able to move and fire again
 
 2h - Once a target is hit:
   - Game will momentarily pause
@@ -55,3 +55,19 @@ Shoot
 
   newVelocity = velocity + gravity * Time.deltaTime;
   newPosition = position + velocity * Time.deltaTime;
+
+Find the nearest distance from the object to a screen's edge
+==================
+Vec2 target = new Vec2(100, -540);
+
+int closest = int.INFINITY;
+
+if (screen.x - abs(target.x) < closest)
+  closest = screen.x - abs(target.x);
+if (screen.y - abs(target.y) < closest)
+  closest = screen.y - abs(target.y);
+
+360 - abs(100) = 260
+closest = 260
+720 - abs(620) = 100
+closest = 100
