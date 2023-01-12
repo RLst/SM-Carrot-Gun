@@ -178,7 +178,7 @@ entities:
           value: Normal
         blendAlpha: 1
         blendAlphaCkeck: true
-        drawCallNum: 5
+        drawCallNum: 6
         maskType:
           __class: IFMaskType
           value: None
@@ -1241,8 +1241,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/40.png}
-        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--40.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/18.png}
+        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--18.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1311,8 +1311,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/40.png}
-        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--40.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/18.png}
+        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--18.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1381,8 +1381,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/40.png}
-        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--40.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/18.png}
+        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--18.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1451,8 +1451,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/40.png}
-        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--40.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/18.png}
+        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--18.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1776,8 +1776,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/40.png}
-        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--40.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/21.png}
+        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--21.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1828,7 +1828,7 @@ config:
   __class: Map
 msaa:
   __class: MSAAMode
-  value: NONE
+  value: _4X
 jsScriptSystems:
   - js/GraphSystem.js
   - js/EditorInjectSystem.js
@@ -2089,7 +2089,7 @@ mobility:
 position: {x: 0, y: 0}
 rotation: 4.071110310845116e-13
 scale: {x: 0.9999999, y: 0.9999999}
-size: {x: 180, y: 60}
+size: {x: 200, y: 70}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
@@ -2372,7 +2372,7 @@ mobility:
 position: {x: 0, y: 30}
 rotation: 4.071110310845116e-13
 scale: {x: 1, y: 1}
-size: {x: 80, y: 80}
+size: {x: 90, y: 90}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
@@ -2391,7 +2391,7 @@ mobility:
 position: {x: 0, y: 30}
 rotation: 4.071110310845116e-13
 scale: {x: 1, y: 1}
-size: {x: 75, y: 75}
+size: {x: 90, y: 90}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
@@ -2410,7 +2410,7 @@ mobility:
 position: {x: 0, y: 30}
 rotation: 4.071110310845116e-13
 scale: {x: 1, y: 1}
-size: {x: 75, y: 75}
+size: {x: 90, y: 90}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
@@ -2429,7 +2429,7 @@ mobility:
 position: {x: 0, y: 30}
 rotation: 4.071110310845116e-13
 scale: {x: 1, y: 1}
-size: {x: 75, y: 75}
+size: {x: 90, y: 90}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
@@ -2448,7 +2448,7 @@ mobility:
 position: {x: 0, y: 30}
 rotation: 4.071110310845116e-13
 scale: {x: 1, y: 1}
-size: {x: 75, y: 75}
+size: {x: 90, y: 90}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
