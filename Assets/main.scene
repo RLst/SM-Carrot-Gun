@@ -1675,8 +1675,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/32.png}
-        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--32.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/30.png}
+        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--30.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1796,8 +1796,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/4fa96b06-7e71-a2de-7b1c-30052da1499b/14.png}
-        imageAtlas: {localId: 1, path: 4fa96b06-7e71-a2de-7b1c-30052da1499b--14.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/4fa96b06-7e71-a2de-7b1c-30052da1499b/28.png}
+        imageAtlas: {localId: 1, path: 4fa96b06-7e71-a2de-7b1c-30052da1499b--28.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1912,6 +1912,75 @@ entities:
           __class: Map
           explode1_anim: {localId: 1, path: 8b027565-7a4b-68b4-1972-e205132c6aee--8b027565-7a4b-68b4-1972-e205132c6aee.seq}
     layer: 1
+  - __class: Entity
+    name: Muzzle
+    guid: {a: 11046886422553682321, b: 14925075028184143502}
+    scene: {localId: 1}
+    selfvisible: false
+    components:
+      - {localId: 48}
+      - __class: IFSprite2d
+        name: ""
+        guid: {a: 14287616093972252261, b: 3880115327331557043}
+        enabled: false
+        alpha: 1
+        cascadeAlphaEnabled: false
+        type:
+          __class: IFSprite2dType
+          value: Normal
+        sizeMode:
+          __class: IFSprite2dSizeMode
+          value: Custom
+        colorTint: {r: 1, g: 1, b: 1, a: 1}
+        blendMode:
+          __class: IFBlendMode
+          value: Normal
+        texture: {localId: 1, path: 05f5fc81-ff12-cde9-5118-0f8dfc39879b--05f5fc81-ff12-cde9-5118-0f8dfc39879b.png}
+        atlasIndex: 0
+        filledType:
+          __class: IFFilledType
+          value: Horizontal
+        filledStartPos: 0
+        filledRange: 1
+        ellipseX: 336
+        ellipseY: 336
+        topLeftPoint: {x: 0, y: 0}
+        topRightPoint: {x: 0, y: 0}
+        bottomLeftPoint: {x: 0, y: 0}
+        bottomRightPoint: {x: 0, y: 0}
+        slicedLeft: 0.1000000014901161
+        slicedRight: 0.8999999761581421
+        slicedBottom: 0.1000000014901161
+        slicedTop: 0.8999999761581421
+        fillCenter: true
+        topLeft: 0.5
+        topRight: 0.5
+        bottomLeft: 0.5
+        bottomRight: 0.5
+        lineWidth: 1
+        lineColor: {r: 1, g: 1, b: 1, a: 1}
+        outer: false
+        sizeInited: true
+        freeInited: false
+      - __class: AnimSeqComponent
+        name: ""
+        guid: {a: 12558070201042723624, b: 464810773519290273}
+        enabled: false
+        animSeq: {localId: 3, path: f178ff56-0d42-8553-7b16-043a9e59fd56--f178ff56-0d42-8553-7b16-043a9e59fd56.seq}
+        texName: Albedo
+        frameName: _MainTex_ST
+        frameRotateName: _Atlas_Rotated
+        frameInnerName: _Atlas_InnerTex_ST
+        playmode:
+          __class: PlayMode
+          value: once
+        loopCount: -1
+        speed: 16
+        autoplay: false
+        animSeqMap:
+          __class: Map
+          muzzleflash_anim: {localId: 3, path: f178ff56-0d42-8553-7b16-043a9e59fd56--f178ff56-0d42-8553-7b16-043a9e59fd56.seq}
+    layer: 1
 visible: true
 config:
   __class: Map
@@ -1980,6 +2049,8 @@ localPosition: {x: 0, y: 0, z: 0}
 localScale: {x: 0.6, y: 0.6, z: 1}
 localOrientation: {w: -0.7071068, x: 0, y: 0, z: 0.7071068}
 parent: {localId: 13}
+children:
+  - {localId: 48}
 mobility:
   __class: Mobility
   value: Dynamic
@@ -2081,7 +2152,7 @@ size: {x: 100, y: 100}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -12
+depth: -13
 --- !IFTransform2d &18
 name: ""
 guid: {a: 3333230592075937574, b: 16931608996474608815}
@@ -2102,7 +2173,7 @@ size: {x: 30, y: 30}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -20
+depth: -21
 --- !IFTransform2d &19
 name: ""
 guid: {a: 7370197271720650611, b: 7062885730621175938}
@@ -2123,7 +2194,7 @@ size: {x: 30, y: 30}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -22
+depth: -23
 --- !IFTransform2d &20
 name: ""
 guid: {a: 1317710183045347940, b: 12975950307791761599}
@@ -2144,7 +2215,7 @@ size: {x: 30, y: 30}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -24
+depth: -25
 --- !IFTransform2d &21
 name: ""
 guid: {a: 9460145442425362055, b: 7053761799649131197}
@@ -2165,7 +2236,7 @@ size: {x: 30, y: 30}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -26
+depth: -27
 --- !IFTransform2d &22
 name: ""
 guid: {a: 14213922353134989211, b: 4988252906484087450}
@@ -2313,7 +2384,7 @@ size: {x: 30, y: 30}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -18
+depth: -19
 --- !IFTransform2d &35
 name: ""
 guid: {a: 6215913306444595665, b: 17655704034824672655}
@@ -2332,7 +2403,7 @@ size: {x: 400, y: 326}
 pivot: {x: 0.5, y: 0.4}
 flipX: false
 flipY: false
-depth: -19
+depth: -20
 --- !IFTransform2d &36
 name: ""
 guid: {a: 8595794242736762510, b: 215438662282565252}
@@ -2351,7 +2422,7 @@ size: {x: 400, y: 326}
 pivot: {x: 0.5, y: 0.4}
 flipX: false
 flipY: false
-depth: -21
+depth: -22
 --- !IFTransform2d &37
 name: ""
 guid: {a: 6863723910390651447, b: 10110945207609159311}
@@ -2370,7 +2441,7 @@ size: {x: 400, y: 326}
 pivot: {x: 0.5, y: 0.4}
 flipX: false
 flipY: false
-depth: -23
+depth: -24
 --- !IFTransform2d &38
 name: ""
 guid: {a: 2328284908399438705, b: 1778546435325350}
@@ -2389,7 +2460,7 @@ size: {x: 400, y: 326}
 pivot: {x: 0.5, y: 0.4}
 flipX: false
 flipY: false
-depth: -25
+depth: -26
 --- !IFTransform2d &39
 name: ""
 guid: {a: 5064175048967562510, b: 14474622661272395695}
@@ -2408,7 +2479,7 @@ size: {x: 400, y: 326}
 pivot: {x: 0.5, y: 0.4}
 flipX: false
 flipY: false
-depth: -27
+depth: -28
 --- !IFTransform2d &40
 name: ""
 guid: {a: 9244360984105819330, b: 1680790907402886059}
@@ -2427,7 +2498,7 @@ size: {x: 90, y: 90}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -13
+depth: -14
 --- !IFTransform2d &41
 name: ""
 guid: {a: 9746796551946097247, b: 6765432177843669420}
@@ -2446,7 +2517,7 @@ size: {x: 90, y: 90}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -14
+depth: -15
 --- !IFTransform2d &42
 name: ""
 guid: {a: 17314374853034296982, b: 4693855171650303418}
@@ -2465,7 +2536,7 @@ size: {x: 90, y: 90}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -15
+depth: -16
 --- !IFTransform2d &43
 name: ""
 guid: {a: 14793428921232567320, b: 8609475079923820195}
@@ -2484,7 +2555,7 @@ size: {x: 90, y: 90}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -16
+depth: -17
 --- !IFTransform2d &44
 name: ""
 guid: {a: 11767492228840987886, b: 12475807340147635353}
@@ -2503,7 +2574,7 @@ size: {x: 90, y: 90}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -17
+depth: -18
 --- !IFTransform2d &45
 name: ""
 guid: {a: 10470504484001244005, b: 8029900518474335423}
@@ -2522,7 +2593,7 @@ size: {x: 720.0001, y: 1280}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -29
+depth: -30
 --- !IFTransform2d &46
 name: ""
 guid: {a: 12630800210616893118, b: 7703590057609646525}
@@ -2541,7 +2612,7 @@ size: {x: 720.0001, y: 1280}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
-depth: -28
+depth: -29
 --- !IFTransform2d &47
 name: ""
 guid: {a: 94172864746014518, b: 6402502842922962363}
@@ -2558,6 +2629,25 @@ rotation: 0
 scale: {x: 0.6, y: 0.6}
 size: {x: 360, y: 360}
 pivot: {x: 0.5, y: 0.5}
+flipX: false
+flipY: false
+depth: -12
+--- !IFTransform2d &48
+name: ""
+guid: {a: 9748856157743401549, b: 15422568327560018333}
+enabled: true
+localPosition: {x: 0.3567709, y: -0.04687503, z: 0}
+localScale: {x: 0.8333334, y: 0.8333334, z: 1}
+localOrientation: {w: 1, x: 0, y: 0, z: -8.940697e-08}
+parent: {localId: 12}
+mobility:
+  __class: Mobility
+  value: Dynamic
+position: {x: 228.3334, y: -30.00002}
+rotation: -1.0245284101984e-05
+scale: {x: 0.8333334, y: 0.8333334}
+size: {x: 512, y: 288}
+pivot: {x: 0.5, y: 0.4}
 flipX: false
 flipY: false
 depth: -11
