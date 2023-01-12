@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "ab5e9ecb-8039-ddc8-0c27-5f5ebb1e998a",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "thoi gian hoan thanh",
+    "objGuid": "Guid(16667153160455975295, 11664957047528693660)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "a2099f3f-ab93-7438-a633-02828aff9d13",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "td neu dep hon giau hon thi chac da co nguoi yeu",
+    "objGuid": "Guid(3765039080317590677, 16024849045923332785)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

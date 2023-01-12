@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "9181d8fb-19f0-ac5d-15a4-cb8c3599ff21",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "tl tien tung tinh tan tai tieu tan",
+    "objGuid": "Guid(9819212948296647383, 2246530233590176427)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

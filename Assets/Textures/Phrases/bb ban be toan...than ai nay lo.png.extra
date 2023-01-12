@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "82bb2b03-926c-6349-5386-595ad835cbfc",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "bb ban be toan...than ai nay lo",
+    "objGuid": "Guid(12701699471065123992, 15980247587236740508)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

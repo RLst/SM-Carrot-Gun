@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "dce204f6-24e8-170b-e7b6-1560bb5286b8",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "bb dua tay day nao mai ben nhau ban nhe",
+    "objGuid": "Guid(1391062397052948253, 5474997665736958369)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

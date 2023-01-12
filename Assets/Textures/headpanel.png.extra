@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "468a58c5-9498-eba3-d67b-e5d3d534fbb4",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "headpanel",
+    "objGuid": "Guid(11405428959111555031, 1408813896101684887)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

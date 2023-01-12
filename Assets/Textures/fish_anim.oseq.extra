@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "58f11c58-269a-151c-4fbe-3f7c14244181",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "fish_anim",
+    "objGuid": "Guid(10827505095050310556, 9876541182279469733)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 256
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "05f5fc81-ff12-cde9-5118-0f8dfc39879b",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "rabbit",
+    "objGuid": "Guid(1029371667322119211, 15315413317683027124)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

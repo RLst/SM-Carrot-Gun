@@ -1,0 +1,13 @@
+[
+  {
+    "guid": {
+      "a": "77280b5e-9802-1bae-bd18-5bf2432b6179",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "Phrases",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false
+  }
+]
