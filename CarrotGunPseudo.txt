@@ -71,3 +71,15 @@ if (screen.y - abs(target.y) < closest)
 closest = 260
 720 - abs(620) = 100
 closest = 100
+
+Target hit sequence
+===================
+1. Game has started
+2. Bullet has been fired
+3. Bullet hits target
+4. Target starts death animation
+5. Corresponding topic is displayed at the hit target
+6. Game pauses until text has finished displaying
+  - isPaused = true
+  - isFiring = true
+7. Resume turret, reset bullet
