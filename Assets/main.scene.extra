@@ -1161,7 +1161,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -1181,6 +1181,25 @@
     "editable": true,
     "advanced": true,
     "texture": "00000000-0000-0000-0000-00000000003e"
+  },
+  {
+    "guid": {
+      "a": "5333eaad-6ffb-bc55-ce30-181c8425456e",
+      "b": ""
+    },
+    "objGuid": "Guid(11405116628921546669, 5987313104014833342)",
+    "extraType": "AnimationSequence",
+    "name": "Animation Sequence",
+    "rttiType": "AnimSeqComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "component_aniseq",
+    "expanded": true,
+    "editable": true,
+    "sequence": "a1868e70-4222-73d8-fd42-ae3cc40a768a",
+    "targetProperty": "Albedo",
+    "playMode": 0
   },
   {
     "guid": {
@@ -1387,7 +1406,7 @@
     },
     "objGuid": "Guid(11547807909078890602, 2949366989690104235)",
     "extraType": "Entity",
-    "name": "TopicText",
+    "name": "Topic Text",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
