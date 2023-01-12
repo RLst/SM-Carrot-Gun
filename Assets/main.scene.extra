@@ -1188,7 +1188,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -1306,7 +1306,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -1339,7 +1339,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -1372,7 +1372,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -1405,7 +1405,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -1654,7 +1654,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -1682,7 +1682,7 @@
     },
     "objGuid": "Guid(3120165436084415826, 10875941827370029980)",
     "extraType": "Entity",
-    "name": "texture 1",
+    "name": "Tex 1",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -1734,7 +1734,7 @@
     },
     "objGuid": "Guid(17676583749054305553, 16662513415630848948)",
     "extraType": "Entity",
-    "name": "texture 2",
+    "name": "Tex 2",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -1786,7 +1786,7 @@
     },
     "objGuid": "Guid(15658864094863013700, 10429505027295251882)",
     "extraType": "Entity",
-    "name": "texture 3",
+    "name": "Tex 3",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -1838,7 +1838,7 @@
     },
     "objGuid": "Guid(17673933879810251361, 13489141202525381001)",
     "extraType": "Entity",
-    "name": "texture 4",
+    "name": "Tex 4",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -2055,7 +2055,7 @@
     },
     "objGuid": "Guid(1030543099219965960, 8605900828175975556)",
     "extraType": "Entity",
-    "name": "texture 0",
+    "name": "Tex 0",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
