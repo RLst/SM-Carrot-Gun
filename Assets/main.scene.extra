@@ -377,6 +377,33 @@
   },
   {
     "guid": {
+      "a": "6b33bba9-3656-45bf-a091-ca896d843bc2",
+      "b": ""
+    },
+    "objGuid": "Guid(7008071165266488023, 1765654070295740061)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "608698a5-7b03-7db4-5669-6a50ebe5f569",
       "b": ""
     },
@@ -1641,7 +1668,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -3444,5 +3471,57 @@
     "sequence": "cd9a92b3-c4db-ec11-3c9a-4ab2617082ad",
     "targetProperty": "Albedo",
     "playMode": 0
+  },
+  {
+    "guid": {
+      "a": "c8575b75-60d7-5213-0875-7a70d53ac780",
+      "b": ""
+    },
+    "objGuid": "Guid(18178598788112432485, 2819949049791961785)",
+    "extraType": "Entity",
+    "name": "testmessageanim",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "dd10bee5-1689-e3ca-98a4-a3fa501b38dd",
+      "b": ""
+    },
+    "objGuid": "Guid(10470175834717652051, 5152173407802138810)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": true,
+    "texture": "be8509b0-e6b8-a6dc-26cc-2f2ae70749ef"
+  },
+  {
+    "guid": {
+      "a": "161b5df5-f483-3d4e-f3fc-3be0d76c36b5",
+      "b": ""
+    },
+    "objGuid": "Guid(3840764620743286067, 6529538773708266412)",
+    "extraType": "AnimationSequence",
+    "name": "Animation Sequence",
+    "rttiType": "AnimSeqComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "component_aniseq",
+    "expanded": true,
+    "editable": true,
+    "sequence": "cd9a92b3-c4db-ec11-3c9a-4ab2617082ad",
+    "targetProperty": "Albedo",
+    "playMode": 1
   }
 ]
