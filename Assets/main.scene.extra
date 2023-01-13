@@ -998,6 +998,33 @@
   },
   {
     "guid": {
+      "a": "a8615903-7662-6093-b34a-9714d5bb79a1",
+      "b": ""
+    },
+    "objGuid": "Guid(10974415933434975944, 15809540178798070187)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "dde803a1-5520-b088-a650-426709c68a05",
       "b": ""
     },
@@ -1786,7 +1813,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -2847,7 +2874,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -3523,5 +3550,38 @@
     "sequence": "cd9a92b3-c4db-ec11-3c9a-4ab2617082ad",
     "targetProperty": "Albedo",
     "playMode": 1
+  },
+  {
+    "guid": {
+      "a": "a07df34c-878e-5643-1aa5-ca25d3ad68fc",
+      "b": ""
+    },
+    "objGuid": "Guid(9605949107596639424, 4628936175041726898)",
+    "extraType": "Entity",
+    "name": "Texture",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "f89f1532-ea1c-23a7-2d1f-be0f6b783e72",
+      "b": ""
+    },
+    "objGuid": "Guid(2039150082052996041, 1595596604664457600)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": true,
+    "texture": "f5ba1748-2161-d576-371b-e6e147a08479"
   }
 ]
