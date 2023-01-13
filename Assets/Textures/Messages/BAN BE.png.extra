@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "BAN BE",
-    "objGuid": "Guid(14935674881300914597, 4475772508836754066)",
+    "objGuid": "Guid(4201282072694801778, 16055570535287285394)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

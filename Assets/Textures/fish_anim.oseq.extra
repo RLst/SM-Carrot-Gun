@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "fish_anim",
-    "objGuid": "Guid(4778227009123520990, 9105446846502375354)",
+    "objGuid": "Guid(4342896149734000357, 13481853034863286416)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

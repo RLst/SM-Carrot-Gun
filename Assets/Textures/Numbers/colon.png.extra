@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "colon",
-    "objGuid": "Guid(14000962843373023340, 16148629721440848045)",
+    "objGuid": "Guid(1532783659230563358, 7872445533665270177)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
