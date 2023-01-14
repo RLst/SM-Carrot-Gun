@@ -178,7 +178,7 @@ entities:
           value: Normal
         blendAlpha: 1
         blendAlphaCkeck: true
-        drawCallNum: 8
+        drawCallNum: 12
         maskType:
           __class: IFMaskType
           value: None
@@ -473,7 +473,7 @@ entities:
     name: Origin 4
     guid: {a: 14072399475473064276, b: 12109571043501986730}
     scene: {localId: 1}
-    selfvisible: true
+    selfvisible: false
     components:
       - {localId: 21}
       - __class: IFSprite2d
@@ -524,7 +524,7 @@ entities:
     name: Origin 3
     guid: {a: 4918338322118344862, b: 6019051706380705463}
     scene: {localId: 1}
-    selfvisible: true
+    selfvisible: false
     components:
       - {localId: 20}
       - __class: IFSprite2d
@@ -581,7 +581,7 @@ entities:
       - __class: IFSprite2d
         name: ""
         guid: {a: 7299545478542487242, b: 18378244239794821808}
-        enabled: false
+        enabled: true
         alpha: 1
         cascadeAlphaEnabled: false
         type:
@@ -632,7 +632,7 @@ entities:
       - __class: IFSprite2d
         name: ""
         guid: {a: 5710693476780336986, b: 10285537610890745014}
-        enabled: false
+        enabled: true
         alpha: 1
         cascadeAlphaEnabled: false
         type:
@@ -1076,7 +1076,7 @@ entities:
       - __class: IFSprite2d
         name: ""
         guid: {a: 7948621638154338369, b: 4971373891254602378}
-        enabled: false
+        enabled: true
         alpha: 1
         cascadeAlphaEnabled: false
         type:
@@ -1140,8 +1140,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/21.png}
-        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--21.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/22.png}
+        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--22.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1210,8 +1210,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/21.png}
-        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--21.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/22.png}
+        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--22.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1280,8 +1280,7 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/21.png}
-        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--21.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/15.png}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1350,8 +1349,7 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/21.png}
-        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--21.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/33.png}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1675,8 +1673,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/46.png}
-        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--46.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/1.png}
+        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--1.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -2041,7 +2039,7 @@ entities:
       - __class: IFSprite2d
         name: ""
         guid: {a: 12484633790273421577, b: 4225091549819453568}
-        enabled: true
+        enabled: false
         alpha: 1
         cascadeAlphaEnabled: false
         type:
@@ -4040,7 +4038,7 @@ mobility:
 position: {x: 0, y: 30}
 rotation: 4.071110310845116e-13
 scale: {x: 1, y: 1}
-size: {x: 110, y: 110}
+size: {x: 80, y: 80}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
@@ -4059,7 +4057,7 @@ mobility:
 position: {x: 0, y: 30}
 rotation: 4.071110310845116e-13
 scale: {x: 1, y: 1}
-size: {x: 110, y: 110}
+size: {x: 80, y: 80}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
@@ -4078,7 +4076,7 @@ mobility:
 position: {x: 0, y: 30}
 rotation: 4.071110310845116e-13
 scale: {x: 1, y: 1}
-size: {x: 110, y: 110}
+size: {x: 80, y: 80}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
@@ -4238,7 +4236,7 @@ mobility:
 position: {x: 0, y: 0}
 rotation: 0
 scale: {x: 1, y: 1}
-size: {x: 336, y: 336}
+size: {x: 100, y: 100}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
