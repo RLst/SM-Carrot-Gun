@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "b4756886-79c7-6261-cfd9-a49f3afdb1a3",
+      "a": "35c09e65-4e09-bffe-f3ed-b50c5f740346",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "td duong nay la duong vao tim em oi kho qua",
-    "objGuid": "Guid(17817639053582617542, 14790940328824675237)",
+    "objGuid": "Guid(6794840809904376754, 6822054278139307930)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "d37ed3cd-f89d-2f43-2b70-957e58b45b8e",
+      "a": "4e6814e0-96d4-941d-d14b-281cbf6d03b2",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "td hang khuyen mai cam doi tra",
-    "objGuid": "Guid(11551721416459795519, 16448277501964025755)",
+    "objGuid": "Guid(13928555070684546917, 10413356934340948132)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

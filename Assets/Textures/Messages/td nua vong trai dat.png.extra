@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "207b9f49-aad1-e63e-7f7d-983985ff0041",
+      "a": "6352104e-b6c9-f15c-cc48-5c4d4c2e7d26",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "td nua vong trai dat",
-    "objGuid": "Guid(14793633391106020182, 10454830163665140127)",
+    "objGuid": "Guid(6721667380575636758, 773921737414756520)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

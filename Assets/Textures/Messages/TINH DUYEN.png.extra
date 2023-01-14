@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "06210451-35c3-415f-53d5-7e5de09de604",
+      "a": "d89c34e8-dc55-1f29-3fe1-37cb56566ab2",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "TINH DUYEN",
-    "objGuid": "Guid(16952606345870741402, 17055740293385111992)",
+    "objGuid": "Guid(12920505437833642368, 16811618362120047235)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

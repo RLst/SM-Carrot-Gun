@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "7c50ba1d-4b6e-96f9-563b-6ed9658762d2",
+      "a": "cfe08061-cda4-f3b6-9817-38c5c194ac35",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "td ai tinh gian nan",
-    "objGuid": "Guid(13280999210823800459, 7063040330235145856)",
+    "objGuid": "Guid(7515702088293808917, 2288012993517721999)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

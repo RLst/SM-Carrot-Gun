@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "8bd941a3-d701-b61b-2dd7-5980b67901a4",
+      "a": "ecf08bfe-ab8e-32b6-5872-10d48590121a",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "hh dung hoc yeu nua hay tap trung hoc hanh",
-    "objGuid": "Guid(18108510166863922019, 15590338926780483258)",
+    "objGuid": "Guid(7945525530685880132, 13018396750477809583)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

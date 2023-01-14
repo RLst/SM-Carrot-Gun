@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "3984f59d-511d-ba64-0f3d-4973fc0aa5b6",
+      "a": "f9bb53ae-b5d7-ba81-7850-1250b30b2161",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
-    "name": "td lam gi phai hot",
-    "objGuid": "Guid(10756913957233176865, 15161314978094419877)",
+    "name": "td Lam gi phai hot",
+    "objGuid": "Guid(16450468046476397924, 6555836333192690061)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

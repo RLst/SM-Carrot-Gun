@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "bd067673-8d27-3454-b396-caf044f9f29c",
+      "a": "6f93c51b-589e-8cff-429b-54922f04e19b",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "td tinh nay cham het",
-    "objGuid": "Guid(2182312005867411983, 5095869590151235761)",
+    "objGuid": "Guid(6360563945192159869, 2179657339053490107)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

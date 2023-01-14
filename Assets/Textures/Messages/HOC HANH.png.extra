@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "39fee969-1470-d5d0-7a50-84008d74e80b",
+      "a": "3e44bd11-cf78-2a7f-d887-54f1f7f54a87",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "HOC HANH",
-    "objGuid": "Guid(9604027219722838669, 2821592584594023099)",
+    "objGuid": "Guid(1892607407412561372, 681681583249851555)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

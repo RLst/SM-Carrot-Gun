@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "5ec0cab6-2156-b303-9e8d-427d9f579eb5",
+      "a": "b0c31a20-26f8-0f43-1473-10f3f20b03ea",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "td so kiep dao hoa",
-    "objGuid": "Guid(7225615349175199729, 2358340005541951108)",
+    "objGuid": "Guid(10830326613221787720, 13785151320852997816)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

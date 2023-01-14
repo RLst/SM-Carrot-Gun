@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "47e5eeb8-0fb9-7b0a-cdd3-7f4669808752",
+      "a": "630a1cb5-17b1-64c3-5b43-79a63b36d274",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "tl doi cho dung cau tai loc con dang sau",
-    "objGuid": "Guid(13639544253810142453, 10148565290355030462)",
+    "objGuid": "Guid(3912345494245084416, 15768792393215682180)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

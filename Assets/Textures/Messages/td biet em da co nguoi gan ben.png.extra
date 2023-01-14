@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "ee2279c3-2183-cae4-4c4a-7e887896834f",
+      "a": "9354a7de-e48a-ad0d-72c2-798371f6702c",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "td biet em da co nguoi gan ben",
-    "objGuid": "Guid(13781036693498149142, 1131467788274177975)",
+    "objGuid": "Guid(15802819050542364838, 18139282017176690846)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

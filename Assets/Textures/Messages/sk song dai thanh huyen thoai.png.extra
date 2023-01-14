@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "33bc4631-4b64-9bec-7ac3-166767bfe96e",
+      "a": "5c99786e-09f0-8c8c-a68d-5e9b644ae6a1",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "sk song dai thanh huyen thoai",
-    "objGuid": "Guid(9676915225863046490, 7093946410169463220)",
+    "objGuid": "Guid(9674080829223248214, 9761623009480570515)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

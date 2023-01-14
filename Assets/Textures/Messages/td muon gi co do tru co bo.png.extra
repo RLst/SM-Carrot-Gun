@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "683294aa-392c-6403-fe8a-0f32c50eb34a",
+      "a": "9d19c264-33b5-db7f-98a1-feeba572bf0a",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "td muon gi co do tru co bo",
-    "objGuid": "Guid(9603923492973839769, 18222201629976841110)",
+    "objGuid": "Guid(16304227101361936912, 7549920595246358449)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

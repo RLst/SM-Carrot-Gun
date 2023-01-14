@@ -1,12 +1,12 @@
 [
   {
     "guid": {
-      "a": "4ef1e43f-308a-b8b8-36b6-72b7ebbee0b9",
+      "a": "5613847b-b37e-7ddb-e9f0-d66fd192177e",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "BAN BE",
-    "objGuid": "Guid(9244128392354016669, 10288643550343505301)",
+    "objGuid": "Guid(10398166794786630096, 15096897762657001352)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

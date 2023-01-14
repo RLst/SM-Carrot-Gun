@@ -1,12 +1,12 @@
 [
   {
     "guid": {
-      "a": "81fc4685-f070-71be-628c-66795763b64f",
+      "a": "a1f8d678-b4a3-8afd-c459-a5fef633ac21",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "bb ban than oi co ay chia doi chung minh",
-    "objGuid": "Guid(17312913959996916242, 5491079365454907559)",
+    "objGuid": "Guid(13853554367886796445, 15124965248155169727)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "5fa26a9d-ace4-c85a-cf03-76a421e5f8b8",
+      "a": "f152d947-09bf-f5d6-d1ad-b2dec64d465d",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "TAI LOC",
-    "objGuid": "Guid(10975018026614493683, 935122364104168120)",
+    "objGuid": "Guid(5135256971040241462, 3025939694372331187)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

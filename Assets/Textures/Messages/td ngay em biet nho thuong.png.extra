@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "57e79fd6-65af-8b66-51d4-8662b59abedb",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "td ngay em biet nho thuong",
+    "objGuid": "Guid(9171188162687554516, 4864016263274090636)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

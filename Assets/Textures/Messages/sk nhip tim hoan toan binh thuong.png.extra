@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "dfdda40b-d93e-d424-65b7-eb91dc4d86de",
+      "a": "59dd71aa-9b1c-2950-9a71-eaa7b6fe2897",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "sk nhip tim hoan toan binh thuong",
-    "objGuid": "Guid(9101096553941524636, 16828402597400661431)",
+    "objGuid": "Guid(11550572920875899235, 18122267495416565168)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

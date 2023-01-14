@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "c5624fb3-9138-d375-92cb-08782d1918a9",
+      "a": "1660e2a4-ea50-64b1-d457-5a9d73762249",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "td hang ton kho xa gap",
-    "objGuid": "Guid(16448304196127025668, 6682785516369623427)",
+    "objGuid": "Guid(16088393743384672348, 11632346229764593539)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

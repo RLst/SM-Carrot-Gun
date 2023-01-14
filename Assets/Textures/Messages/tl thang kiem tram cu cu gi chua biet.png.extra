@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "087e268e-0221-0b83-a69d-3dda8090402a",
+      "a": "de388a7c-1fb4-181d-6fdf-a8edc4497503",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "tl thang kiem tram cu cu gi chua biet",
-    "objGuid": "Guid(14070500797640570293, 15107048752095056563)",
+    "objGuid": "Guid(14721943843894612493, 3946553401682081924)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

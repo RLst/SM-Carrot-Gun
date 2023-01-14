@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "6ae0d034-1b65-af94-8991-f670c17fd9d6",
+      "a": "7ed41d59-55b7-95d4-0977-1f71f5baa131",
       "b": ""
     },
     "extraType": "ResItemPNGImage",
     "name": "td em ngoi day doi tu chieu",
-    "objGuid": "Guid(17168250668779058167, 8731456221087673506)",
+    "objGuid": "Guid(9099466867299057460, 2304704506252945563)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512,
     "enableMipmap": false,
     "filterMin": 1,

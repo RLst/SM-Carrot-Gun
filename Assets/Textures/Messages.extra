@@ -1,11 +1,11 @@
 [
   {
     "guid": {
-      "a": "b63796d0-6001-dd77-472d-bcc69cd91f47",
+      "a": "ecd2a659-e2df-e1f5-2bc9-8e0e8a347136",
       "b": ""
     },
     "extraType": "ResItemFolder",
-    "name": "Messages",
+    "name": "messages",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false
