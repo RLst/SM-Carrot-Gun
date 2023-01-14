@@ -85,7 +85,83 @@ Target hit sequence
 7. Resume turret, reset bullet
 
 
-Time limit
+Countdown timer
 ==========
 - Easy
-- 
+-
+
+Time limit
+==========
+Requirements
+- Timer inits at 45s
+- Timer starts countdown on first shot fired
+- On
+
+//States
+bool isFiring;
+bool isPlaying;
+float timeLeft;
+float time;
+float deltaTime;
+Texture Message0;
+Texture Message1;
+Texture Message2;
+Texture Message3;
+Texture Message4;
+
+
+void Update()
+{
+  if (!isPlaying)
+  {
+    return;
+  }
+
+  UpdateBullet();
+  UpdateCountdownTimer();
+  UpdateGameTimers();
+}
+
+void OnUserInput()
+{
+  if (isPlaying == false && isGameStarted == false)
+  {
+    isGameStarted = true;
+    isPlaying = true;
+  }
+
+  FireBullet();
+}
+
+void FireBullet()
+{
+  if (!isFiring)
+  {
+    isFiring = true;
+
+    Activate bullet
+    Init bullet position
+    Animate bullet once
+  }
+
+  AnimateMuzzleFlash();..
+}
+
+void UpdateBullet()
+{
+  if (isFiring && bullet.active)
+  {
+    Move bullet according to speed and orientation
+  }
+}
+
+void UpdateCountdownTimer()
+{
+
+}
+
+void UpdateGameTimers()
+{
+  deltaTime = Time.deltaTime;
+  time += deltaTime;
+}
