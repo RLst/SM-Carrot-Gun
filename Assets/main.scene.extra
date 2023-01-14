@@ -431,6 +431,195 @@
   },
   {
     "guid": {
+      "a": "6bf0ec9b-c607-597f-e4a0-567eafe582fc",
+      "b": ""
+    },
+    "objGuid": "Guid(14287400431227329876, 16018191829078863791)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "265be303-b7be-84f6-1bb5-6d3c50f54566",
+      "b": ""
+    },
+    "objGuid": "Guid(13566908320142118810, 26956468223247772)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "182fe2ee-77bf-2944-a777-491040fe1708",
+      "b": ""
+    },
+    "objGuid": "Guid(15151206576028241177, 3868576276225884331)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "5ce32d2a-e747-b1a5-1d57-8876f13a069f",
+      "b": ""
+    },
+    "objGuid": "Guid(14577047413248551613, 15393131559407556251)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "97817b79-3719-45d1-036c-0a62fcb34979",
+      "b": ""
+    },
+    "objGuid": "Guid(4918811665384622552, 727035522448671106)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "2e11f8af-f11c-d4a9-0d8b-51686f2547d7",
+      "b": ""
+    },
+    "objGuid": "Guid(5929582782280523232, 5255943138515458436)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "2b406ee4-59d2-ae32-1a3a-ed437e7f2bde",
+      "b": ""
+    },
+    "objGuid": "Guid(14358024124081053543, 5221955602403922852)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "fc9f0d89-6c26-a5c7-8f0d-017b7658d216",
       "b": ""
     },
@@ -1695,7 +1884,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -1728,7 +1917,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -1813,7 +2002,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -2874,15 +3063,15 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
     "guid": {
-      "a": "2c838664-7c59-b2a8-5b5a-eb8eedf33ef2",
+      "a": "ca034252-1809-eeb9-136c-4c9b3fd679fc",
       "b": ""
     },
-    "objGuid": "Guid(7083660133489195314, 16739056209050518440)",
+    "objGuid": "Guid(12484633790273421577, 4225091549819453568)",
     "extraType": "IFSprite2d",
     "name": "Image",
     "rttiType": "IFSprite2d",
@@ -2892,7 +3081,7 @@
     "displayKey": "inspector_add_image",
     "expanded": true,
     "editable": true,
-    "advanced": true,
+    "advanced": false,
     "texture": "00000000-0000-0000-0000-00000000003e"
   },
   {
@@ -3506,7 +3695,7 @@
     },
     "objGuid": "Guid(18178598788112432485, 2819949049791961785)",
     "extraType": "Entity",
-    "name": "testmessageanim",
+    "name": "_anim",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -3583,5 +3772,312 @@
     "editable": true,
     "advanced": true,
     "texture": "f5ba1748-2161-d576-371b-e6e147a08479"
+  },
+  {
+    "guid": {
+      "a": "e429178b-d021-ccc7-25c9-87c6fb3b11e8",
+      "b": ""
+    },
+    "objGuid": "Guid(811690468301306127, 8652577268731027340)",
+    "extraType": "Entity",
+    "name": "Countdown Timer",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "1ff28624-aec5-e96a-33f8-35eead6144eb",
+      "b": ""
+    },
+    "objGuid": "Guid(13350532770043143647, 14635857630970138779)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": true,
+    "texture": "00000000-0000-0000-0000-00000000003e"
+  },
+  {
+    "guid": {
+      "a": "a619b253-443d-884f-cad8-9b0161359e5b",
+      "b": ""
+    },
+    "objGuid": "Guid(10611818845558658777, 17202806210366542232)",
+    "extraType": "Entity",
+    "name": "Time Minute 1",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "c8d68c4d-e16b-0f11-880c-860f03e66603",
+      "b": ""
+    },
+    "objGuid": "Guid(13712333787507031971, 17334470463883564177)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": true,
+    "texture": "fe4e5b3d-8072-a59b-0be9-a2f84b8dfc40"
+  },
+  {
+    "guid": {
+      "a": "d777bfb0-0f31-da60-9032-212b8f6b19af",
+      "b": ""
+    },
+    "objGuid": "Guid(9316449809625701295, 9615266481534493317)",
+    "extraType": "AnimationSequence",
+    "name": "Animation Sequence",
+    "rttiType": "AnimSeqComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "component_aniseq",
+    "expanded": true,
+    "editable": true,
+    "sequence": "cd9a92b3-c4db-ec11-3c9a-4ab2617082ad",
+    "targetProperty": "Albedo",
+    "playMode": 1
+  },
+  {
+    "guid": {
+      "a": "57768214-4bf6-1695-439e-b4625318e3c9",
+      "b": ""
+    },
+    "objGuid": "Guid(12125001457787320150, 17262292939037665471)",
+    "extraType": "Entity",
+    "name": "Time Minute 0",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "535d8fd1-135c-7a1d-c6b9-e78b9fd1f61a",
+      "b": ""
+    },
+    "objGuid": "Guid(12846246860066952480, 3792009660826780822)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": true,
+    "texture": "fe4e5b3d-8072-a59b-0be9-a2f84b8dfc40"
+  },
+  {
+    "guid": {
+      "a": "87007084-dcd5-abf1-f80d-44915c6b2276",
+      "b": ""
+    },
+    "objGuid": "Guid(2540079228416355709, 7455694520053729439)",
+    "extraType": "AnimationSequence",
+    "name": "Animation Sequence",
+    "rttiType": "AnimSeqComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "component_aniseq",
+    "expanded": true,
+    "editable": true,
+    "sequence": "cd9a92b3-c4db-ec11-3c9a-4ab2617082ad",
+    "targetProperty": "Albedo",
+    "playMode": 0
+  },
+  {
+    "guid": {
+      "a": "9294747b-6959-c7b9-45b7-17067bd5a913",
+      "b": ""
+    },
+    "objGuid": "Guid(14001303329222109726, 17489950308351712177)",
+    "extraType": "Entity",
+    "name": "Time Colon",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "95b54f90-b852-d06a-5fc7-fcdc2751a945",
+      "b": ""
+    },
+    "objGuid": "Guid(11910364384094900002, 1434337924686723259)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": true,
+    "texture": "fe4e5b3d-8072-a59b-0be9-a2f84b8dfc40"
+  },
+  {
+    "guid": {
+      "a": "a08e6eae-895c-a60b-9a62-6e64f38d2cc4",
+      "b": ""
+    },
+    "objGuid": "Guid(14718931329433383617, 13886180815005574561)",
+    "extraType": "Entity",
+    "name": "Time Second 1",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "66ba812d-6cb1-7f97-7c83-90a560ab5ab3",
+      "b": ""
+    },
+    "objGuid": "Guid(7299763407094538610, 3589610306151786921)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": true,
+    "texture": "fe4e5b3d-8072-a59b-0be9-a2f84b8dfc40"
+  },
+  {
+    "guid": {
+      "a": "8acd100d-0e33-96b0-81d2-2377cd79317d",
+      "b": ""
+    },
+    "objGuid": "Guid(6721492415467811793, 17111586946714398901)",
+    "extraType": "AnimationSequence",
+    "name": "Animation Sequence",
+    "rttiType": "AnimSeqComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "component_aniseq",
+    "expanded": true,
+    "editable": true,
+    "sequence": "cd9a92b3-c4db-ec11-3c9a-4ab2617082ad",
+    "targetProperty": "Albedo",
+    "playMode": 0
+  },
+  {
+    "guid": {
+      "a": "4e4740cb-53b4-5c4c-73fe-71b029e37f9c",
+      "b": ""
+    },
+    "objGuid": "Guid(17460286918112948087, 12323730737393641379)",
+    "extraType": "Entity",
+    "name": "Time Second 0",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "a73918b4-0911-bf35-9f89-0ea2c050c538",
+      "b": ""
+    },
+    "objGuid": "Guid(8596635491510141169, 1977162836934461081)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": true,
+    "texture": "fe4e5b3d-8072-a59b-0be9-a2f84b8dfc40"
+  },
+  {
+    "guid": {
+      "a": "cb6d036a-d47c-0df0-bb98-4b458bd4c515",
+      "b": ""
+    },
+    "objGuid": "Guid(9315893662700829036, 14548214312080152996)",
+    "extraType": "AnimationSequence",
+    "name": "Animation Sequence",
+    "rttiType": "AnimSeqComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "component_aniseq",
+    "expanded": true,
+    "editable": true,
+    "sequence": "cd9a92b3-c4db-ec11-3c9a-4ab2617082ad",
+    "targetProperty": "Albedo",
+    "playMode": 0
+  },
+  {
+    "guid": {
+      "a": "29dd8ba1-2714-27d8-3c57-4e93557c76ee",
+      "b": ""
+    },
+    "objGuid": "Guid(8594483660180591112, 13675329661040725900)",
+    "extraType": "Entity",
+    "name": "UI",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "a96ad6d0-feca-09dd-1494-c5ed8fb1abdb",
+      "b": ""
+    },
+    "objGuid": "Guid(15295339612972233923, 892634812213454783)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": false,
+    "editable": true,
+    "advanced": false,
+    "texture": "00000000-0000-0000-0000-00000000003e"
   }
 ]

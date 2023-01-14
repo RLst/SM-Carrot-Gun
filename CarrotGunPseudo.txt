@@ -83,3 +83,9 @@ Target hit sequence
   - isPaused = true
   - isFiring = true
 7. Resume turret, reset bullet
+
+
+Time limit
+==========
+- Easy
+- 
