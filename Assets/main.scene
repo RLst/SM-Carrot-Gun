@@ -798,7 +798,7 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: 00000000-0000-0000-0000-00000000001e--00000000-0000-0000-0000-00000000001e.png}
+        texture: {localId: 1, path: 5613847b-b37e-7ddb-e9f0-d66fd192177e--5613847b-b37e-7ddb-e9f0-d66fd192177e.png}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -838,7 +838,7 @@ entities:
           value: AlignOneAnchor
         indexs1: [39]
         weights1: [1]
-        anchor1: {x: 0.8753445, y: -2.124905}
+        anchor1: {x: 0.7807105, y: -1.960847}
         indexs2: [77]
         weights2: [1]
         anchor2: {x: 1, y: 1}
@@ -851,11 +851,11 @@ entities:
         useScaleX: true
         scaleXStartIndex: 74
         scaleXEndIndex: 77
-        scaleXFactor: 0.7391710877418518
+        scaleXFactor: 0.9075378179550171
         useScaleY: false
         scaleYStartIndex: 43
         scaleYEndIndex: 49
-        scaleYFactor: 0.3378398418426514
+        scaleYFactor: 0.3603624999523163
         rotationType:
           __class: IFRotationType
           value: Algorithm
@@ -1140,8 +1140,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/50.png}
-        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--50.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/49.png}
+        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--49.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1210,8 +1210,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/50.png}
-        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--50.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/49.png}
+        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--49.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1673,8 +1673,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/43.png}
-        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--43.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/16.png}
+        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--16.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -3848,7 +3848,7 @@ mobility:
 position: {x: 0, y: 0}
 rotation: 4.071110310845116e-13
 scale: {x: 1, y: 1}
-size: {x: 202, y: 64}
+size: {x: 221, y: 64}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
@@ -3918,8 +3918,8 @@ mobility:
 position: {x: 1.192093e-06, y: 304.5104}
 rotation: 0
 scale: {x: 1.5, y: 1.5}
-size: {x: 180, y: 60}
-pivot: {x: 0.5, y: 0.5}
+size: {x: 221, y: 64}
+pivot: {x: 0.475, y: 0.5}
 flipX: false
 flipY: false
 depth: -1
@@ -4311,7 +4311,7 @@ mobility:
 position: {x: -255, y: 240}
 rotation: 0
 scale: {x: 1, y: 1}
-size: {x: 200, y: 64}
+size: {x: 221, y: 64}
 pivot: {x: 0, y: 0.5}
 flipX: false
 flipY: false
@@ -4351,7 +4351,7 @@ mobility:
 position: {x: -255, y: 115}
 rotation: 0
 scale: {x: 1, y: 1}
-size: {x: 200, y: 64}
+size: {x: 221, y: 64}
 pivot: {x: 0, y: 0.5}
 flipX: false
 flipY: false
@@ -4391,7 +4391,7 @@ mobility:
 position: {x: -255, y: -15}
 rotation: 0
 scale: {x: 1, y: 1}
-size: {x: 200, y: 64}
+size: {x: 221, y: 64}
 pivot: {x: 0, y: 0.5}
 flipX: false
 flipY: false
@@ -4431,7 +4431,7 @@ mobility:
 position: {x: -255, y: -130}
 rotation: 0
 scale: {x: 1, y: 1}
-size: {x: 200, y: 64}
+size: {x: 221, y: 64}
 pivot: {x: 0, y: 0.5}
 flipX: false
 flipY: false
