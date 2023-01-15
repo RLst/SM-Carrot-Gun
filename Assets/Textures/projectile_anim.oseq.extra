@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "projectile_anim",
-    "objGuid": "Guid(14144736599717805359, 9242218295193603720)",
+    "objGuid": "Guid(4198544949405226701, 13260073823762403483)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
