@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "6ae3dfe4-19ac-bc82-99ad-8ef64a8916a2",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "target SUC KHOE",
+    "objGuid": "Guid(11117202211648361440, 14432776310884260265)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

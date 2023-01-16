@@ -189,7 +189,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -1565,6 +1565,33 @@
   },
   {
     "guid": {
+      "a": "1f2003d4-258b-c26e-3784-32fed1dc0882",
+      "b": ""
+    },
+    "objGuid": "Guid(3985428244539831818, 13346864303284881798)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "ec40a1ed-a64f-888d-17a7-856a38bced50",
       "b": ""
     },
@@ -1596,6 +1623,33 @@
       "b": ""
     },
     "objGuid": "Guid(8595794242736762510, 215438662282565252)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "618d964c-7503-e26a-c3df-bec80b994366",
+      "b": ""
+    },
+    "objGuid": "Guid(12701616326452554018, 1258184895875242373)",
     "extraType": "IFTransform2d",
     "name": "2D Transform",
     "eulerAngle": [
@@ -1673,6 +1727,33 @@
   },
   {
     "guid": {
+      "a": "37df0432-0b6d-f90f-5f52-e0db1e153080",
+      "b": ""
+    },
+    "objGuid": "Guid(12199818914377895137, 1186131862902456963)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "9d3316ce-b450-11fd-33bd-f6c7f9a18d2c",
       "b": ""
     },
@@ -1727,6 +1808,33 @@
   },
   {
     "guid": {
+      "a": "d6344f6b-84e4-7ef3-87db-ec85cbbffbfc",
+      "b": ""
+    },
+    "objGuid": "Guid(9965341518788634956, 14581252005712937138)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "a7703e1d-9882-8116-e7ac-417de3d3d356",
       "b": ""
     },
@@ -1758,6 +1866,33 @@
       "b": ""
     },
     "objGuid": "Guid(5064175048967562510, 14474622661272395695)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "6a828ccc-613c-d9d5-5f08-efe8a910f678",
+      "b": ""
+    },
+    "objGuid": "Guid(16879755904416803158, 15680825485066525108)",
     "extraType": "IFTransform2d",
     "name": "2D Transform",
     "eulerAngle": [
@@ -1911,7 +2046,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -1944,7 +2079,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -2128,7 +2263,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -2161,7 +2296,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -2410,7 +2545,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -2438,7 +2573,7 @@
     },
     "objGuid": "Guid(3120165436084415826, 10875941827370029980)",
     "extraType": "Entity",
-    "name": "Tex 1",
+    "name": "Texture 1",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -2490,7 +2625,7 @@
     },
     "objGuid": "Guid(17676583749054305553, 16662513415630848948)",
     "extraType": "Entity",
-    "name": "Tex 2",
+    "name": "Texture 2",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -2542,7 +2677,7 @@
     },
     "objGuid": "Guid(15658864094863013700, 10429505027295251882)",
     "extraType": "Entity",
-    "name": "Tex 3",
+    "name": "Texture 3",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -2594,7 +2729,7 @@
     },
     "objGuid": "Guid(17673933879810251361, 13489141202525381001)",
     "extraType": "Entity",
-    "name": "Tex 4",
+    "name": "Texture 4",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -2811,7 +2946,7 @@
     },
     "objGuid": "Guid(1030543099219965960, 8605900828175975556)",
     "extraType": "Entity",
-    "name": "Tex 0",
+    "name": "Texture 0",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -3076,7 +3211,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "00000000-0000-0000-0000-000000000021"
+    "texture": "6031d95d-37ee-f4ea-58db-1ea3446284f2"
   },
   {
     "guid": {
@@ -3090,7 +3225,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -3255,7 +3390,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -4086,7 +4221,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -4138,6 +4273,209 @@
     "expanded": true,
     "editable": true,
     "advanced": false,
+    "texture": "00000000-0000-0000-0000-000000000021"
+  },
+  {
+    "guid": {
+      "a": "49213084-b8a7-e60e-354b-15ecd6963f8e",
+      "b": ""
+    },
+    "objGuid": "Guid(7657460238191774138, 3206677007903893639)",
+    "extraType": "Entity",
+    "name": "Text 1",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "3aff068e-70c3-6903-781d-3300096ccae0",
+      "b": ""
+    },
+    "objGuid": "Guid(17096190339275305284, 7361699788989854341)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": true,
+    "texture": "43c80b53-43e7-1b61-e1bc-413d0922d52d"
+  },
+  {
+    "guid": {
+      "a": "6ec708fd-0340-d349-9bce-646e9224b334",
+      "b": ""
+    },
+    "objGuid": "Guid(16376340086631741399, 7527560921632771733)",
+    "extraType": "Entity",
+    "name": "Text 2",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "a8d0bc35-56ad-3b8b-1f33-fe91a9d6ef4c",
+      "b": ""
+    },
+    "objGuid": "Guid(7010508584355540032, 129693856687327890)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": true,
+    "texture": "347b6fa6-2d5a-39b0-0004-e7c6b1a01cd1"
+  },
+  {
+    "guid": {
+      "a": "d372141a-6afa-bdaf-2f33-d3eac79288bf",
+      "b": ""
+    },
+    "objGuid": "Guid(14866173304426784181, 2231022347968641699)",
+    "extraType": "Entity",
+    "name": "Text 3",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "7212a6a3-8302-bb67-0984-22fc3d8343f2",
+      "b": ""
+    },
+    "objGuid": "Guid(5641720298795554431, 5120466994982122652)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": true,
     "texture": "00000000-0000-0000-0000-00000000003e"
+  },
+  {
+    "guid": {
+      "a": "5b995b44-46d3-13af-5302-abbae41f327c",
+      "b": ""
+    },
+    "objGuid": "Guid(13640502169452225211, 15264776380028683175)",
+    "extraType": "AnimationSequence",
+    "name": "Animation Sequence",
+    "rttiType": "AnimSeqComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "component_aniseq",
+    "expanded": true,
+    "editable": true,
+    "sequence": "58f11c58-269a-151c-4fbe-3f7c14244181",
+    "targetProperty": "Albedo",
+    "playMode": 1
+  },
+  {
+    "guid": {
+      "a": "4bf84800-b41f-bf87-dc50-fbdde2fd769c",
+      "b": ""
+    },
+    "objGuid": "Guid(16447769283780807388, 12818407548949288588)",
+    "extraType": "Entity",
+    "name": "Text 0",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "cd00c34f-4325-319b-23a7-e97e6e83e195",
+      "b": ""
+    },
+    "objGuid": "Guid(14217553130683438075, 7834477253763224491)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": true,
+    "texture": "347b6fa6-2d5a-39b0-0004-e7c6b1a01cd1"
+  },
+  {
+    "guid": {
+      "a": "81c09cd7-2c88-3f16-72ea-a142c280905f",
+      "b": ""
+    },
+    "objGuid": "Guid(5426664863721632747, 5929715595039081863)",
+    "extraType": "Entity",
+    "name": "Text 4",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "12c7b363-a73d-5c33-960d-43f040131b0a",
+      "b": ""
+    },
+    "objGuid": "Guid(15154101407616257956, 401974570167028115)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": true,
+    "texture": "00000000-0000-0000-0000-00000000003e"
+  },
+  {
+    "guid": {
+      "a": "b68f8259-80fe-7522-c641-1d2ae99ecf24",
+      "b": ""
+    },
+    "objGuid": "Guid(9101035606935572212, 13110395383009104822)",
+    "extraType": "AnimationSequence",
+    "name": "Animation Sequence",
+    "rttiType": "AnimSeqComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "component_aniseq",
+    "expanded": true,
+    "editable": true,
+    "sequence": "58f11c58-269a-151c-4fbe-3f7c14244181",
+    "targetProperty": "Albedo",
+    "playMode": 1
   }
 ]
