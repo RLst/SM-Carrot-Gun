@@ -302,6 +302,33 @@
   },
   {
     "guid": {
+      "a": "aa8cb699-0d29-1c9d-997a-0dd40669e616",
+      "b": ""
+    },
+    "objGuid": "Guid(9891870893220271892, 4670069151012006039)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "4b01a72c-5b16-d2c2-9e8e-6e7d12809967",
       "b": ""
     },
@@ -2133,7 +2160,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -4559,5 +4586,55 @@
     "editable": true,
     "advanced": false,
     "texture": "00000000-0000-0000-0000-00000000003e"
+  },
+  {
+    "guid": {
+      "a": "3982323c-a5e7-7e95-a9c2-aae2c125a535",
+      "b": ""
+    },
+    "objGuid": "Guid(1606431089369137682, 7808815920347432861)",
+    "extraType": "Entity",
+    "name": "Lips",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "85ff5170-2585-b0a6-4437-398ce4454eb5",
+      "b": ""
+    },
+    "objGuid": "Guid(15803117025678786479, 17914011630938221996)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": true,
+    "texture": "86921e18-e725-73d5-de27-290bab700471"
+  },
+  {
+    "guid": {
+      "a": "2914a205-f6b4-eff6-a361-19abdb4b926b",
+      "b": ""
+    },
+    "objGuid": "Guid(8161304723622213477, 12331950029961057411)",
+    "extraType": "IFFaceAnchorAlignment",
+    "name": "Face Sticker",
+    "rttiType": "IFFaceAnchorAlignment",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_facesticker",
+    "expanded": true,
+    "editable": true,
+    "anchorType": "Custom Point"
   }
 ]
