@@ -1980,7 +1980,7 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "a1868e70-4222-73d8-fd42-ae3cc40a768a",
+    "sequence": "2b2c97b2-2596-43d5-c96a-481c94a046cd",
     "targetProperty": "Albedo",
     "playMode": 0
   },
@@ -2029,7 +2029,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {

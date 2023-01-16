@@ -1,18 +1,18 @@
 [
   {
     "guid": {
-      "a": "a1868e70-4222-73d8-fd42-ae3cc40a768a",
+      "a": "2b2c97b2-2596-43d5-c96a-481c94a046cd",
       "b": ""
     },
     "extraType": "ResItemTextureSequence",
     "name": "projectile_anim",
-    "objGuid": "Guid(5640871275806805847, 373880443029172613)",
+    "objGuid": "Guid(4345632589609720727, 7520220219555474340)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 1,
-    "quality": 1,
+    "compressionType": 0,
+    "quality": 0,
     "maxResolution": 512
   }
 ]
