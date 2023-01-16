@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "fishdeath_anim",
-    "objGuid": "Guid(7151723723156582025, 8187365381136666247)",
+    "objGuid": "Guid(14145007574159879435, 1396503448321350831)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

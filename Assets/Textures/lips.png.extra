@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "lips",
-    "objGuid": "Guid(14141440886703619466, 11676193347449350041)",
+    "objGuid": "Guid(163558201328193353, 1020111618815217828)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "headpanel",
-    "objGuid": "Guid(16809157186893510536, 3492600427322905522)",
+    "objGuid": "Guid(6505011939083362740, 14811896498598837403)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
