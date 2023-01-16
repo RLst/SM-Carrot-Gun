@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "resultspanel",
-    "objGuid": "Guid(18179449135786199135, 5898856830078403994)",
+    "objGuid": "Guid(6291253801040141355, 16311718065469259165)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
