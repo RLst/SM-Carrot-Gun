@@ -3024,7 +3024,7 @@
     "expanded": true,
     "editable": true,
     "advanced": false,
-    "texture": "05f5fc81-ff12-cde9-5118-0f8dfc39879b"
+    "texture": "00000000-0000-0000-0000-000000000021"
   },
   {
     "guid": {
@@ -3076,7 +3076,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "6031d95d-37ee-f4ea-58db-1ea3446284f2"
+    "texture": "00000000-0000-0000-0000-000000000021"
   },
   {
     "guid": {
@@ -4086,7 +4086,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
