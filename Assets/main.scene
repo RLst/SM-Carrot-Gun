@@ -1140,8 +1140,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/44.png}
-        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--44.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/3.png}
+        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--3.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1210,8 +1210,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/44.png}
-        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--44.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/3.png}
+        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--3.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1673,8 +1673,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/45.png}
-        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--45.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/47.png}
+        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--47.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -4311,17 +4311,17 @@ depth: -38
 name: ""
 guid: {a: 6431490909490142769, b: 688099072909146772}
 enabled: true
-localPosition: {x: -0.4997277, y: 0.9372277, z: 0}
+localPosition: {x: -0.5455393, y: 0.9830393, z: 0}
 localScale: {x: 0.9999999, y: 0.9999999, z: 1}
 localOrientation: {w: 1, x: 0, y: 0, z: 0}
 parent: {localId: 11}
 mobility:
   __class: Mobility
   value: Dynamic
-position: {x: -319.8257, y: 599.8257}
+position: {x: -349.1451, y: 629.1451}
 rotation: 0
 scale: {x: 0.9999999, y: 0.9999999}
-size: {x: 80.3485, y: 80.34849}
+size: {x: 21.70978, y: 21.70977}
 pivot: {x: 0.5, y: 0.5}
 flipX: false
 flipY: false
