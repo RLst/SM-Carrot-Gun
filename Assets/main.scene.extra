@@ -189,7 +189,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -1052,33 +1052,6 @@
   },
   {
     "guid": {
-      "a": "067f4524-58d0-3503-3ea0-d439f2f162c5",
-      "b": ""
-    },
-    "objGuid": "Guid(14213922353134989211, 4988252906484087450)",
-    "extraType": "IFTransform2d",
-    "name": "2D Transform",
-    "eulerAngle": [
-      0,
-      0,
-      0
-    ],
-    "rotation": [
-      0,
-      0,
-      0,
-      1
-    ],
-    "rttiType": "IFTransform2d",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "displayKey": "inspector_add_2dtransform",
-    "expanded": true,
-    "editable": true
-  },
-  {
-    "guid": {
       "a": "aebd5168-37c2-0ac3-c2d7-bb977366995c",
       "b": ""
     },
@@ -1218,6 +1191,60 @@
       "b": ""
     },
     "objGuid": "Guid(9748856157743401549, 15422568327560018333)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "21e4bc54-775a-c855-1a93-9fcc6fad51f3",
+      "b": ""
+    },
+    "objGuid": "Guid(17962424775141029562, 4858007818546131646)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "067f4524-58d0-3503-3ea0-d439f2f162c5",
+      "b": ""
+    },
+    "objGuid": "Guid(14213922353134989211, 4988252906484087450)",
     "extraType": "IFTransform2d",
     "name": "2D Transform",
     "eulerAngle": [
@@ -2191,7 +2218,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -2224,7 +2251,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -2257,7 +2284,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -2290,7 +2317,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -2323,7 +2350,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -2351,7 +2378,7 @@
     },
     "objGuid": "Guid(11547807909078890602, 2949366989690104235)",
     "extraType": "Entity",
-    "name": "Topic Text",
+    "name": "Death Topic Text",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -2491,7 +2518,7 @@
     "expanded": true,
     "editable": true,
     "advanced": false,
-    "texture": "a84d4763-ff5e-158f-5ef9-e957fd86096d"
+    "texture": "57e79fd6-65af-8b66-51d4-8662b59abedb"
   },
   {
     "guid": {
@@ -2540,7 +2567,7 @@
     "displayKey": "inspector_add_image",
     "expanded": true,
     "editable": true,
-    "advanced": false,
+    "advanced": true,
     "texture": "468a58c5-9498-eba3-d67b-e5d3d534fbb4"
   },
   {
@@ -2572,7 +2599,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -3110,7 +3137,7 @@
     },
     "objGuid": "Guid(4487179536671352624, 5177736804324371852)",
     "extraType": "Entity",
-    "name": "Death",
+    "name": "Death Explosion",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -4380,7 +4407,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -4499,5 +4526,38 @@
     "editable": true,
     "advanced": false,
     "texture": "ff3ebd03-1f3d-9769-436d-e4ef34d40f6e"
+  },
+  {
+    "guid": {
+      "a": "849c30f2-ca1f-6a4b-3fc3-93bdf4e805a7",
+      "b": ""
+    },
+    "objGuid": "Guid(11550241581278267001, 15748694157553092755)",
+    "extraType": "Entity",
+    "name": "Death",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": false,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "d4bd398c-ecef-0496-e176-38deb306d31f",
+      "b": ""
+    },
+    "objGuid": "Guid(11694283946202941403, 6143376216416614564)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "00000000-0000-0000-0000-00000000003e"
   }
 ]

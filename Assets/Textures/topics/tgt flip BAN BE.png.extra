@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "71149205-03c8-c093-bec0-c673dfb438e0",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "tgt flip BAN BE",
+    "objGuid": "Guid(6359657177324512816, 118571822607092637)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

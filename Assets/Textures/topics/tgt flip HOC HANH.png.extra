@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "cea41b22-4b23-3c35-1286-f131ab3a6580",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "tgt flip HOC HANH",
+    "objGuid": "Guid(450875782382413535, 18229323687677340818)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

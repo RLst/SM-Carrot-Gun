@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "43c80b53-43e7-1b61-e1bc-413d0922d52d",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "tgt TAI LOC",
+    "objGuid": "Guid(11476083006053679770, 14881527815762525091)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

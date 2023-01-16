@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "f4d1fc2a-da88-7493-7574-41b70f525944",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "tgt flip TAI LOC",
+    "objGuid": "Guid(16451271171060016977, 14417197531398896796)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]
