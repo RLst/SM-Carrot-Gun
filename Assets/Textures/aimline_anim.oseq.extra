@@ -1,12 +1,12 @@
 [
   {
     "guid": {
-      "a": "bf0f3eae-019f-eb6e-08b6-d02abd93f4a4",
+      "a": "8b77392b-b75c-8c1f-1eae-3fa8b6927ee6",
       "b": ""
     },
     "extraType": "ResItemTextureSequence",
     "name": "aimline_anim",
-    "objGuid": "Guid(2973719998207135156, 14373160872044632750)",
+    "objGuid": "Guid(7657702007351345875, 8271861982545351816)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
