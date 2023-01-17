@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "fish_silhouette",
-    "objGuid": "Guid(8305156381123432485, 9133398229637545891)",
+    "objGuid": "Guid(16736242928918949145, 13833857073035220134)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

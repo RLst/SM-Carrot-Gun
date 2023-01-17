@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "fishglow",
-    "objGuid": "Guid(12055249203669557015, 16899242010390540451)",
+    "objGuid": "Guid(15369673706338398041, 15268302129392514986)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "clouds",
-    "objGuid": "Guid(16520015141810787312, 6480009692798301887)",
+    "objGuid": "Guid(16449998151610821299, 6800344738235444120)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

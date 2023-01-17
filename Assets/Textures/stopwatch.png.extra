@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "stopwatch",
-    "objGuid": "Guid(8809395478154087204, 4964103893711759288)",
+    "objGuid": "Guid(11766482567015205181, 1408939951055213225)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

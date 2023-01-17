@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "muzzleflash_anim",
-    "objGuid": "Guid(12126079741529765216, 3398017683774041485)",
+    "objGuid": "Guid(16160607578260283974, 337769309251523987)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
