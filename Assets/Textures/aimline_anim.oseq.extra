@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "bf0f3eae-019f-eb6e-08b6-d02abd93f4a4",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "aimline_anim",
+    "objGuid": "Guid(2973719998207135156, 14373160872044632750)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 2,
+    "maxResolution": 1024
+  }
+]
