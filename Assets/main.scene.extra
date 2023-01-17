@@ -1187,87 +1187,6 @@
   },
   {
     "guid": {
-      "a": "21e4bc54-775a-c855-1a93-9fcc6fad51f3",
-      "b": ""
-    },
-    "objGuid": "Guid(17962424775141029562, 4858007818546131646)",
-    "extraType": "IFTransform2d",
-    "name": "2D Transform",
-    "eulerAngle": [
-      0,
-      0,
-      0
-    ],
-    "rotation": [
-      0,
-      0,
-      0,
-      1
-    ],
-    "rttiType": "IFTransform2d",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "displayKey": "inspector_add_2dtransform",
-    "expanded": true,
-    "editable": true
-  },
-  {
-    "guid": {
-      "a": "067f4524-58d0-3503-3ea0-d439f2f162c5",
-      "b": ""
-    },
-    "objGuid": "Guid(14213922353134989211, 4988252906484087450)",
-    "extraType": "IFTransform2d",
-    "name": "2D Transform",
-    "eulerAngle": [
-      0,
-      0,
-      0
-    ],
-    "rotation": [
-      0,
-      0,
-      0,
-      1
-    ],
-    "rttiType": "IFTransform2d",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "displayKey": "inspector_add_2dtransform",
-    "expanded": true,
-    "editable": true
-  },
-  {
-    "guid": {
-      "a": "001f642a-c222-ca5e-88c9-ca51bd0bf80d",
-      "b": ""
-    },
-    "objGuid": "Guid(94172864746014518, 6402502842922962363)",
-    "extraType": "IFTransform2d",
-    "name": "2D Transform",
-    "eulerAngle": [
-      0,
-      0,
-      0
-    ],
-    "rotation": [
-      0,
-      0,
-      0,
-      1
-    ],
-    "rttiType": "IFTransform2d",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "displayKey": "inspector_add_2dtransform",
-    "expanded": true,
-    "editable": true
-  },
-  {
-    "guid": {
       "a": "b8271b8c-7c78-ad77-d68f-0e2bbefb57e9",
       "b": ""
     },
@@ -1916,6 +1835,87 @@
   },
   {
     "guid": {
+      "a": "21e4bc54-775a-c855-1a93-9fcc6fad51f3",
+      "b": ""
+    },
+    "objGuid": "Guid(17962424775141029562, 4858007818546131646)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "067f4524-58d0-3503-3ea0-d439f2f162c5",
+      "b": ""
+    },
+    "objGuid": "Guid(14213922353134989211, 4988252906484087450)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
+      "a": "001f642a-c222-ca5e-88c9-ca51bd0bf80d",
+      "b": ""
+    },
+    "objGuid": "Guid(94172864746014518, 6402502842922962363)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "712998de-1324-736f-9d4d-e44c878ec1c0",
       "b": ""
     },
@@ -2322,7 +2322,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -2407,7 +2407,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -2506,7 +2506,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -2539,7 +2539,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -2788,7 +2788,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -2816,7 +2816,7 @@
     },
     "objGuid": "Guid(3120165436084415826, 10875941827370029980)",
     "extraType": "Entity",
-    "name": "Silh 1",
+    "name": "Target 1",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -2840,7 +2840,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "0b58e9ff-4f48-72b9-3161-f9903ca0028e"
+    "texture": "36108a98-cc49-caf6-4e0f-9dd162cc49e7"
   },
   {
     "guid": {
@@ -2849,12 +2849,12 @@
     },
     "objGuid": "Guid(17676583749054305553, 16662513415630848948)",
     "extraType": "Entity",
-    "name": "Silh 2",
+    "name": "Target 2",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -2873,7 +2873,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "0b58e9ff-4f48-72b9-3161-f9903ca0028e"
+    "texture": "36108a98-cc49-caf6-4e0f-9dd162cc49e7"
   },
   {
     "guid": {
@@ -3151,7 +3151,7 @@
     },
     "objGuid": "Guid(1030543099219965960, 8605900828175975556)",
     "extraType": "Entity",
-    "name": "Silh 0",
+    "name": "Target 0",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -3175,7 +3175,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "0b58e9ff-4f48-72b9-3161-f9903ca0028e"
+    "texture": "36108a98-cc49-caf6-4e0f-9dd162cc49e7"
   },
   {
     "guid": {
@@ -4331,7 +4331,7 @@
     },
     "objGuid": "Guid(7657460238191774138, 3206677007903893639)",
     "extraType": "Entity",
-    "name": "Text 1",
+    "name": "X Text 1",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -4364,7 +4364,7 @@
     },
     "objGuid": "Guid(16376340086631741399, 7527560921632771733)",
     "extraType": "Entity",
-    "name": "Text 2",
+    "name": "X Text 2",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
@@ -4449,7 +4449,7 @@
     },
     "objGuid": "Guid(16447769283780807388, 12818407548949288588)",
     "extraType": "Entity",
-    "name": "Text 0",
+    "name": "X Text 0",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,

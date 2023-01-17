@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "frame",
-    "objGuid": "Guid(9173612626498924015, 9072624151159512452)",
+    "objGuid": "Guid(15010042558032661250, 2622936389347314840)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
