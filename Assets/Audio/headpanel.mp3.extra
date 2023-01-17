@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "7105f1a4-fd7d-bfb6-eb61-e4c3d7e1dbae",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "headpanel",
+    "objGuid": "Guid(16880185642649438973, 3856106962157065401)",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS"
+  }
+]

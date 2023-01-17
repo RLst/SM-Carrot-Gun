@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "4cc6a4eb-e7bd-c903-39ea-adad99d03585",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "shoot",
+    "objGuid": "Guid(5206719401725447652, 6662400642207386804)",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS"
+  }
+]

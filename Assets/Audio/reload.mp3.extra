@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "7ef7f55a-c231-a145-1332-c6e23b8dbb3c",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "reload",
+    "objGuid": "Guid(16305806519825680243, 9621893727036393642)",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS"
+  }
+]
