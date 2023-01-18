@@ -1,12 +1,12 @@
 [
   {
     "guid": {
-      "a": "cff2984f-83c8-dead-025d-3ca698abd4c4",
+      "a": "9f86de54-85e3-65e2-701d-c7b223301608",
       "b": ""
     },
     "extraType": "ResItemMP3",
-    "name": "Explosion_03",
-    "objGuid": "Guid(9244866185589370421, 1180411866215329181)",
+    "name": "explosion2",
+    "objGuid": "Guid(9604888972882476810, 805975164747359111)",
     "rttiType": "AudioClip",
     "version": "0.1.0",
     "isVisibleInInspector": true,
