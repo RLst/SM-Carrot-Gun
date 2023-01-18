@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "712b3cbd-27db-3ced-db07-e90ff027fbcc",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "hochang2023",
+    "objGuid": "Guid(9387383068536884816, 6859728258578117013)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "02d61cfd-5090-0b3f-86ed-017c8e0ba4cc",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "sk an nhieu chu dung uong",
+    "objGuid": "Guid(17818885659423944545, 2451086176947209620)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

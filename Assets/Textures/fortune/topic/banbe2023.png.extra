@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "2d9f2121-3a7c-f78f-93cf-0b74b8769732",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "banbe2023",
+    "objGuid": "Guid(16665736070449200409, 4176364187750782650)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "35e2287d-bcfb-bc0a-39c9-1e4fa4a03881",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "tailoc2023",
+    "objGuid": "Guid(5136954494664489766, 9717974896209754014)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

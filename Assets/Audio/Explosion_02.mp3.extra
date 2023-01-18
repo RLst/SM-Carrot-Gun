@@ -1,0 +1,16 @@
+[
+  {
+    "guid": {
+      "a": "9f86de54-85e3-65e2-701d-c7b223301608",
+      "b": ""
+    },
+    "extraType": "ResItemMP3",
+    "name": "Explosion_02",
+    "objGuid": "Guid(9604888972882476810, 805975164747359111)",
+    "rttiType": "AudioClip",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "mccState": "SUCCESS"
+  }
+]

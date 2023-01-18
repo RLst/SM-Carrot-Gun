@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "star",
-    "objGuid": "Guid(16737258242377417391, 10519530862351179170)",
+    "objGuid": "Guid(11479460381458368283, 15276040772374343558)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

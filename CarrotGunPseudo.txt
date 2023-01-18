@@ -165,3 +165,12 @@ void UpdateGameTimers()
   deltaTime = Time.deltaTime;
   time += deltaTime;
 }
+
+==========
+Algorithm
+
+• Preset all topic indices first ie. suc khoe, ban be, tinh duyen
+• Preset all topic messages ie.
+  topic 0: suk khoe -> message0: sk4
+• Preset all message textures
+  message0: sk4 tex

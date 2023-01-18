@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "1f2e6fc9-6f7c-58c3-50df-67442e45302a",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "c tinhduyen2023",
+    "objGuid": "Guid(13927362371991365158, 12297010553885668020)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

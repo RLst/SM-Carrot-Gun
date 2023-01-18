@@ -836,6 +836,33 @@
   },
   {
     "guid": {
+      "a": "a41bc80f-ea46-bdd3-a2ff-3eefb4fe6fb9",
+      "b": ""
+    },
+    "objGuid": "Guid(8233865578668047722, 14212213599419642783)",
+    "extraType": "IFTransform2d",
+    "name": "2D Transform",
+    "eulerAngle": [
+      0,
+      0,
+      0
+    ],
+    "rotation": [
+      0,
+      0,
+      0,
+      1
+    ],
+    "rttiType": "IFTransform2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_2dtransform",
+    "expanded": true,
+    "editable": true
+  },
+  {
+    "guid": {
       "a": "50307c80-194e-6f64-5e06-6f4f0e2722f9",
       "b": ""
     },
@@ -2370,7 +2397,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -2587,7 +2614,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -2620,7 +2647,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -2869,7 +2896,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -2902,7 +2929,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -2921,7 +2948,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "00000000-0000-0000-0000-00000000001e"
+    "texture": "039e60d4-c995-b9fd-dcae-848e1a4cb53f"
   },
   {
     "guid": {
@@ -2954,7 +2981,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -2973,7 +3000,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "00000000-0000-0000-0000-00000000001e"
+    "texture": "039e60d4-c995-b9fd-dcae-848e1a4cb53f"
   },
   {
     "guid": {
@@ -3275,7 +3302,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -3294,7 +3321,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "00000000-0000-0000-0000-00000000001e"
+    "texture": "039e60d4-c995-b9fd-dcae-848e1a4cb53f"
   },
   {
     "guid": {
@@ -3549,7 +3576,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -3582,7 +3609,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -3601,7 +3628,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "00000000-0000-0000-0000-00000000001e"
+    "texture": "2d9f2121-3a7c-f78f-93cf-0b74b8769732"
   },
   {
     "guid": {
@@ -3615,7 +3642,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -3634,7 +3661,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "00000000-0000-0000-0000-00000000001e"
+    "texture": "712b3cbd-27db-3ced-db07-e90ff027fbcc"
   },
   {
     "guid": {
@@ -3648,7 +3675,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -3667,7 +3694,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "00000000-0000-0000-0000-00000000001e"
+    "texture": "9f1683e5-63b9-764a-db96-3b286241db43"
   },
   {
     "guid": {
@@ -3766,7 +3793,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "00000000-0000-0000-0000-00000000001e"
+    "texture": "e5459fca-baf0-8f3d-fc0c-5c23d7c398ef"
   },
   {
     "guid": {
@@ -3799,7 +3826,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "00000000-0000-0000-0000-00000000001e"
+    "texture": "0985aa15-ed8b-47e3-49f2-1d445ec4e646"
   },
   {
     "guid": {
@@ -3832,7 +3859,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "00000000-0000-0000-0000-00000000001e"
+    "texture": "7ead2545-1779-6632-ed35-3a3934ea148c"
   },
   {
     "guid": {
@@ -3907,12 +3934,12 @@
     },
     "objGuid": "Guid(9678229480509615118, 12174381597237578131)",
     "extraType": "Entity",
-    "name": "Total Time",
+    "name": "Total Time Digits",
     "rttiType": "Entity",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -3931,7 +3958,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "00000000-0000-0000-0000-00000000001e"
+    "texture": "039e60d4-c995-b9fd-dcae-848e1a4cb53f"
   },
   {
     "guid": {
@@ -4408,7 +4435,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -4677,7 +4704,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -4809,7 +4836,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -4925,7 +4952,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -5252,5 +5279,38 @@
     "editable": true,
     "advanced": false,
     "texture": "827c6944-99d9-aa08-785f-d14192c8ffdd"
+  },
+  {
+    "guid": {
+      "a": "6d51181c-1cc6-9151-3e1b-13e7e76beac3",
+      "b": ""
+    },
+    "objGuid": "Guid(16018174724292553163, 16380678501434226056)",
+    "extraType": "Entity",
+    "name": "Total Time Text",
+    "rttiType": "Entity",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "expanded": true,
+    "type": "none"
+  },
+  {
+    "guid": {
+      "a": "8cb1c679-a96e-1675-777f-421badea83c0",
+      "b": ""
+    },
+    "objGuid": "Guid(12628166157822981882, 8406536750889920148)",
+    "extraType": "IFSprite2d",
+    "name": "Image",
+    "rttiType": "IFSprite2d",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "inspector_add_image",
+    "expanded": true,
+    "editable": true,
+    "advanced": false,
+    "texture": "fc4419c6-af61-398c-8f26-2ad409369a5c"
   }
 ]

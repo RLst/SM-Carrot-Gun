@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "facepanel",
-    "objGuid": "Guid(8381041113559610692, 15887088103428951199)",
+    "objGuid": "Guid(7371130716579153351, 44585040553794228)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
