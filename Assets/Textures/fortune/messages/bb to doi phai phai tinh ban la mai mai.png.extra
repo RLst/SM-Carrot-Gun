@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "19b52671-faa6-21db-6c68-603a1504ec7b",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "bb to doi phai phai tinh ban la mai mai",
+    "objGuid": "Guid(9604948921763688033, 4935811831241348485)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

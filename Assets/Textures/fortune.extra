@@ -1,0 +1,13 @@
+[
+  {
+    "guid": {
+      "a": "218c3fd9-5c49-1a63-06c9-30ecca45ab02",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "fortune",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false
+  }
+]

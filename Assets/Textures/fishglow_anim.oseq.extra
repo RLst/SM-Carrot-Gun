@@ -6,13 +6,13 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "fishglow_anim",
-    "objGuid": "Guid(12196513927750135613, 3031962940171859343)",
+    "objGuid": "Guid(2399566600360706882, 5595865147757374892)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
     "compressionType": 1,
     "quality": 1,
-    "maxResolution": 256
+    "maxResolution": 512
   }
 ]

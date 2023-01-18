@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "656f4147-2e61-a642-3ab3-8fb1165f56fd",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "stopwatch",
+    "objGuid": "Guid(3838084123728667660, 8307784850017975972)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

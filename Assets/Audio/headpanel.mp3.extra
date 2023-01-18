@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemMP3",
     "name": "headpanel",
-    "objGuid": "Guid(16880185642649438973, 3856106962157065401)",
+    "objGuid": "Guid(9964285003032193068, 2611803216034471860)",
     "rttiType": "AudioClip",
     "version": "0.1.0",
     "isVisibleInInspector": true,

@@ -1,0 +1,13 @@
+[
+  {
+    "guid": {
+      "a": "b514fe4d-c4fb-8603-bfc2-d43d6bdf1d00",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "text",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false
+  }
+]

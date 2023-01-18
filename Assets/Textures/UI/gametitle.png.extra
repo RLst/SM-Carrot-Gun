@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "fcde45a4-b248-3acb-8cce-e82f56071493",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "gametitle",
+    "objGuid": "Guid(6218308268141264796, 18030388019284357794)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "a84d4763-ff5e-158f-5ef9-e957fd86096d",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "bb ban be toan",
+    "objGuid": "Guid(18248827715071416848, 12804245628199671993)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 1,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]
