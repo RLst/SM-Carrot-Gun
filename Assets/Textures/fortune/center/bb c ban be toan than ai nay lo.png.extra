@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "93f64a97-957c-bc65-092e-d60b1478dba3",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "bb c ban be toan than ai nay lo",
+    "objGuid": "Guid(15297870727821247383, 3988599983394022585)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

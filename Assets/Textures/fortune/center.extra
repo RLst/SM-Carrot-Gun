@@ -1,0 +1,13 @@
+[
+  {
+    "guid": {
+      "a": "7a0f6d21-dd9d-5c13-30cd-7077f868c07b",
+      "b": ""
+    },
+    "extraType": "ResItemFolder",
+    "name": "center",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "7194badb-1eac-7b58-1ce9-64206c518f23",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "tl c dung dinh rung rinh ca nưm",
+    "objGuid": "Guid(9818416910584954511, 6171253939510201008)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "3c2c79d5-d88a-a7a2-3c79-64f8bade7406",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "td di 2 ve 1",
+    "objGuid": "Guid(13494424235295368283, 1698792589355360182)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "3ba7c3b1-155a-47c6-4e5d-197ed58c4f31",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "td c so kiep dao hoa",
+    "objGuid": "Guid(12487014004432586729, 2144201270111732671)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

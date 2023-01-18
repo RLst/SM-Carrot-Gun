@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "8ffc76f7-8eaa-7ba2-a819-548fd7db15fb",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "sk c ban nen thu choi game",
+    "objGuid": "Guid(17096113302844298840, 17992920324235223712)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

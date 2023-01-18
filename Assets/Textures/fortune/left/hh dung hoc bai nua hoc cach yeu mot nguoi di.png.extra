@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "6ba29b71-7afc-041c-aa1f-c38cfab77908",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "hh dung hoc bai nua hoc cach yeu mot nguoi di",
+    "objGuid": "Guid(4704272965381108010, 8063795854790278561)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "be87b4f7-254c-a74a-3002-5cbe9555e696",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "td c hup ngay keo",
+    "objGuid": "Guid(16159913883032948922, 14785930511672483252)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

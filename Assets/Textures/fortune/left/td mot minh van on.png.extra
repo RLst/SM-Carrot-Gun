@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "781a27d3-d338-7b51-6d05-10c1b9acfbe3",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "td mot minh van on",
+    "objGuid": "Guid(15223206946909070651, 275810615724673721)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

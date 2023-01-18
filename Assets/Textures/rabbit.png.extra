@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "rabbit",
-    "objGuid": "Guid(7875747409393364176, 5989046666249391246)",
+    "objGuid": "Guid(2614004146633381008, 5355770106268035249)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

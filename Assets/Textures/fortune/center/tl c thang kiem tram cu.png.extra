@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "f9d100be-5eb5-03ed-14e4-8ea99d1dd375",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "tl c thang kiem tram cu",
+    "objGuid": "Guid(5857772243009651152, 10260463957583240602)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

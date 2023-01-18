@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "dea757b1-a066-d8f7-5946-e4aa74eebc2f",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "sk vi tien tinh ma tien dinh",
+    "objGuid": "Guid(6432096805032511276, 8883210982115026594)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

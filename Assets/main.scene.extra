@@ -2370,7 +2370,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -2488,7 +2488,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -2672,7 +2672,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "055695cd-4c42-4d5c-6ce7-2460eca72498"
+    "texture": "b0434592-2233-5da9-c931-4c882fec29b7"
   },
   {
     "guid": {
@@ -2738,7 +2738,7 @@
     "expanded": true,
     "editable": true,
     "advanced": false,
-    "texture": "5613847b-b37e-7ddb-e9f0-d66fd192177e"
+    "texture": "335d5625-c5cd-6527-3130-2b6e3cbffb38"
   },
   {
     "guid": {
@@ -2788,7 +2788,7 @@
     "expanded": true,
     "editable": true,
     "advanced": false,
-    "texture": "57e79fd6-65af-8b66-51d4-8662b59abedb"
+    "texture": "4167ca29-f975-d3ba-5f69-f70d9dd892c5"
   },
   {
     "guid": {
@@ -3549,7 +3549,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -3601,7 +3601,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "5613847b-b37e-7ddb-e9f0-d66fd192177e"
+    "texture": "00000000-0000-0000-0000-00000000001e"
   },
   {
     "guid": {
@@ -3634,7 +3634,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "f152d947-09bf-f5d6-d1ad-b2dec64d465d"
+    "texture": "00000000-0000-0000-0000-00000000001e"
   },
   {
     "guid": {
@@ -3667,7 +3667,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "055695cd-4c42-4d5c-6ce7-2460eca72498"
+    "texture": "00000000-0000-0000-0000-00000000001e"
   },
   {
     "guid": {
@@ -3700,7 +3700,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "f152d947-09bf-f5d6-d1ad-b2dec64d465d"
+    "texture": "00000000-0000-0000-0000-00000000001e"
   },
   {
     "guid": {
@@ -3733,7 +3733,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "d89c34e8-dc55-1f29-3fe1-37cb56566ab2"
+    "texture": "00000000-0000-0000-0000-00000000001e"
   },
   {
     "guid": {
@@ -3766,7 +3766,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "a84d4763-ff5e-158f-5ef9-e957fd86096d"
+    "texture": "00000000-0000-0000-0000-00000000001e"
   },
   {
     "guid": {
@@ -3799,7 +3799,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "3ece7b1d-f638-5715-9d3a-13941cab7b9d"
+    "texture": "00000000-0000-0000-0000-00000000001e"
   },
   {
     "guid": {
@@ -3832,7 +3832,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "30dc3272-0298-381b-933b-3303f3dcffcb"
+    "texture": "00000000-0000-0000-0000-00000000001e"
   },
   {
     "guid": {
@@ -3865,7 +3865,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "c727a546-3148-6e95-175b-e4876ff1fe00"
+    "texture": "00000000-0000-0000-0000-00000000001e"
   },
   {
     "guid": {
@@ -3898,7 +3898,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "a7bf2d7f-7bc4-46e0-6852-1c6e2e7e84dd"
+    "texture": "00000000-0000-0000-0000-00000000001e"
   },
   {
     "guid": {
@@ -3931,7 +3931,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "ab5e9ecb-8039-ddc8-0c27-5f5ebb1e998a"
+    "texture": "00000000-0000-0000-0000-00000000001e"
   },
   {
     "guid": {
@@ -4408,7 +4408,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {

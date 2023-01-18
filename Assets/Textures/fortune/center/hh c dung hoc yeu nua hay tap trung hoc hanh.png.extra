@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "15d41136-0000-82b2-6266-7fe95196d33b",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "hh c dung hoc yeu nua hay tap trung hoc hanh",
+    "objGuid": "Guid(10107323411267760148, 7595434286484016530)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

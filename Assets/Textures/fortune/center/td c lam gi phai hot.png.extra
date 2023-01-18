@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "bfe48ca8-5142-f094-7c9e-7e4337f768c0",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "td c lam gi phai hot",
+    "objGuid": "Guid(18036288551293698538, 7143293109810236824)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

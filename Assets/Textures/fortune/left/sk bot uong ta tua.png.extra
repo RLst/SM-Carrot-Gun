@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "bcace3cd-7a3c-54c4-5d2d-feb3431371ed",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "sk bot uong ta tua",
+    "objGuid": "Guid(9389552094214590234, 16338579553484260508)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

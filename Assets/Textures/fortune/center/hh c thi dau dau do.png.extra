@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "675526fc-6e36-6ad2-b3e9-05fdf72b53a9",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "hh c thi dau dau do",
+    "objGuid": "Guid(2110422844005636485, 3187754286305944729)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "85545591-b56d-6e4e-0554-876cb84e2cd7",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "tl an con khong du no tram ngan thu kho lo",
+    "objGuid": "Guid(522861245436595803, 12540057320949008813)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]
