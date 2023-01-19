@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "a24419e9-6c1f-1d59-a922-24de0ead9524",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "td yeu dai thanh huyen thoai",
+    "objGuid": "Guid(11548465712923648190, 17249332598786328233)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

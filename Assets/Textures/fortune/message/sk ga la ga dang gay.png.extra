@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "defe69e6-6eca-5fa8-5d3a-f9072e6f2b2f",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "sk ga la ga dang gay",
+    "objGuid": "Guid(7946521693502001917, 18131278163061955763)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

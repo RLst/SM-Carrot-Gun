@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "09bc6c9d-d4ae-98da-fc5d-e639aa1b5ec4",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "td muon gi co do",
+    "objGuid": "Guid(2111391635285184783, 8053144836553635993)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

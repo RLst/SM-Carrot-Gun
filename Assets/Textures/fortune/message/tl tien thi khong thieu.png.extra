@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "c4607551-1107-f967-36f6-5e7db5a4752e",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "tl tien thi khong thieu",
+    "objGuid": "Guid(11044718827616250069, 17929200876204343479)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

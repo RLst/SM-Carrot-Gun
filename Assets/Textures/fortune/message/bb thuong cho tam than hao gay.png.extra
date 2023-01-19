@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "bd8bc85b-265c-d2fc-830d-45d2b88af9ca",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "bb thuong cho tam than hao gay",
+    "objGuid": "Guid(13494286194942552883, 7194972883831700147)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

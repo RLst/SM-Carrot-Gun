@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "8c2330cd-6496-0162-fcb7-5fa31adc9cb4",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "td duong mat anh sure",
+    "objGuid": "Guid(4992377274922137689, 7950212300490746766)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

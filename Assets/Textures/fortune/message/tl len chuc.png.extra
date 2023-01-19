@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "dadbe6dd-f798-88dd-80fa-033cab339221",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "tl len chuc",
+    "objGuid": "Guid(4342534298790588635, 1033556548412799373)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

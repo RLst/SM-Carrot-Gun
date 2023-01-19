@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "6793acc6-2639-b52b-6b4e-def1a462b9fc",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "bb ghe vao tai dua ban",
+    "objGuid": "Guid(16883553868360905645, 3339107480688044172)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

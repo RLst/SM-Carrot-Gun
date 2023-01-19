@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "309f8330-6e42-b42e-fe1e-37b1ec3aa26c",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "tl nha to cua rong",
+    "objGuid": "Guid(16304827533480919635, 10264780549155123094)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

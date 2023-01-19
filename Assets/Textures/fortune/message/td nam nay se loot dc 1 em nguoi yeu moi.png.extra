@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "d4650fdf-ddb5-6399-e99a-0946ff54f39e",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "td nam nay se loot dc 1 em nguoi yeu moi",
+    "objGuid": "Guid(9460593545028636112, 14033026058270811026)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

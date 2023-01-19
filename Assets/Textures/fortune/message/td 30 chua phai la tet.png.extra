@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "a5d595cd-bfa7-0405-e90a-a7ab3e37a8d3",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "td 30 chua phai la tet",
+    "objGuid": "Guid(6651591499988316542, 9199657624634946203)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

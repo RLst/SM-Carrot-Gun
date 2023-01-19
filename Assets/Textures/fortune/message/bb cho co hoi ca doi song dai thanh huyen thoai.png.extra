@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "72319552-dae4-7670-5921-10a4312a8449",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "bb cho co hoi ca doi song dai thanh huyen thoai",
+    "objGuid": "Guid(10251126290855544013, 6006934209617826729)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

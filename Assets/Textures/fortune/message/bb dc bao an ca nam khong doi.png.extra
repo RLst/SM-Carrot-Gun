@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "54e4faee-a58f-4bf6-9df9-fa7013f1be1d",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "bb dc bao an ca nam khong doi",
+    "objGuid": "Guid(11259297729577215131, 8424077855237334963)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

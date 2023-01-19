@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "b155f702-7069-c662-1a0f-43c9fdf18e3a",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "tl yah sure",
+    "objGuid": "Guid(12486580628534494681, 18261676256361123518)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

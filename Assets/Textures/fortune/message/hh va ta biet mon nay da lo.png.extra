@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "394fd34d-af66-0dd3-11e1-1bcb4ce69d60",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "hh va ta biet mon nay da lo",
+    "objGuid": "Guid(14433270898340140995, 9221253258205077160)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

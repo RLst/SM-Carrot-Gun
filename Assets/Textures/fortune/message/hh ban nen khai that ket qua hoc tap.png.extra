@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "83c9b3ee-6609-d791-8e58-2af7c5a6004a",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "hh ban nen khai that ket qua hoc tap",
+    "objGuid": "Guid(10466799003452730518, 7906557847408818318)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

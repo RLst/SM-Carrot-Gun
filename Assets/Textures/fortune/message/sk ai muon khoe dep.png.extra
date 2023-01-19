@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "8e321df2-de07-c0a3-b7bb-bd52523f6f3d",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "sk ai muon khoe dep",
+    "objGuid": "Guid(17819718242665863806, 9511229307837801390)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

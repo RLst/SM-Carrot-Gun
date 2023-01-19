@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "94d2091f-8016-ce88-13f2-35095444998d",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "bb ban than oi co ay chia doi chung minhh",
+    "objGuid": "Guid(11765495803307862446, 10224806538436818317)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

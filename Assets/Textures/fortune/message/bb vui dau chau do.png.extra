@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "5f346ad4-efe1-c411-9675-4a5704f6e667",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "bb vui dau chau do",
+    "objGuid": "Guid(4417473253736960148, 9336451192623080608)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

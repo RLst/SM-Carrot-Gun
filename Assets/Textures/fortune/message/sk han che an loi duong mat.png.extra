@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "05956477-15b1-df2b-0d2b-bf8bd3caa1bf",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "sk han che an loi duong mat",
+    "objGuid": "Guid(9315665972863064332, 1202856201344994197)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

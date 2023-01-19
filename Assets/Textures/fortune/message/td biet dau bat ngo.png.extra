@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "74c021b3-21dc-de83-3150-12035510dccd",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "td biet dau bat ngo",
+    "objGuid": "Guid(6145428606220753032, 12886102476591878586)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]
