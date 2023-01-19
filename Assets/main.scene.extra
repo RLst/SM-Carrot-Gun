@@ -3435,7 +3435,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -3468,7 +3468,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -3501,7 +3501,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -5003,7 +5003,7 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "58ad425c-bbf1-0896-4236-903397644791",
+    "sequence": "ed30c408-c425-d470-ad18-3643ae239057",
     "targetProperty": "Albedo",
     "playMode": 2
   },
@@ -5055,7 +5055,7 @@
     "displayKey": "component_aniseq",
     "expanded": true,
     "editable": true,
-    "sequence": "58ad425c-bbf1-0896-4236-903397644791",
+    "sequence": "ed30c408-c425-d470-ad18-3643ae239057",
     "targetProperty": "Albedo",
     "playMode": 2
   },

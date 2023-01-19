@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "ed30c408-c425-d470-ad18-3643ae239057",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "golddust_fx",
+    "objGuid": "Guid(13280724828686344528, 1285340322320325279)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 1,
+    "quality": 2,
+    "maxResolution": 512
+  }
+]
