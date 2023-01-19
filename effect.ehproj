@@ -1,6 +1,6 @@
 {
-  "name": "Untitled",
-  "lastModified": "Thu, 19 Jan 2023 10:26:49 GMT",
+  "name": "Carrot Gun",
+  "lastModified": "Thu, 19 Jan 2023 11:33:43 GMT",
   "version": "1.9.1",
   "toolName": "Effect House",
   "projectID": "0439cb28-5421-bd9b-6248-47ac46895316",
@@ -75,10 +75,10 @@
     "62": "Layer 62",
     "63": "Layer 63"
   },
-  "durationToCreate": 1308794688,
-  "durationCreation": 578272258,
-  "durationBackground": 395966307,
-  "effectHint": "",
+  "durationToCreate": 1312808324,
+  "durationCreation": 582285894,
+  "durationBackground": 399331870,
+  "effectHint": "smile",
   "templateID": "templateID_none",
   "overwriteBuiltinMakeup": false,
   "overwriteBuiltinFilter": true
