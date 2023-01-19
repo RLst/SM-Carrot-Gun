@@ -5,14 +5,14 @@
       "b": ""
     },
     "extraType": "ResItemTextureSequence",
-    "name": "gun",
+    "name": "rabbit_anim",
     "objGuid": "Guid(12989089088511579098, 7641598757850051979)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "compressionType": 0,
-    "quality": 0,
+    "compressionType": 1,
+    "quality": 1,
     "maxResolution": 512
   }
 ]

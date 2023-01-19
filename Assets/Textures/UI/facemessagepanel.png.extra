@@ -1,0 +1,26 @@
+[
+  {
+    "guid": {
+      "a": "ee0bf15e-90d9-534c-7765-d1436bec0052",
+      "b": ""
+    },
+    "extraType": "ResItemPNGImage",
+    "name": "facemessagepanel",
+    "objGuid": "Guid(11836269228973762856, 5028564991300040592)",
+    "rttiType": "Texture2D",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512,
+    "enableMipmap": false,
+    "filterMin": 1,
+    "filterMag": 1,
+    "filterMipmap": 0,
+    "wrapModeS": 0,
+    "wrapModeT": 0,
+    "wrapModeR": 0,
+    "premultiplyAlpha": true
+  }
+]

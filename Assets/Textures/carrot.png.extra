@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "carrot",
-    "objGuid": "Guid(10323573425583570289, 13643949185793978525)",
+    "objGuid": "Guid(16663618553430927270, 4494374621556318138)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

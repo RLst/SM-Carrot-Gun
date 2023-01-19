@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemMP3",
     "name": "hit",
-    "objGuid": "Guid(6287833654888616137, 14804505621551944637)",
+    "objGuid": "Guid(1895843990219416932, 3401767974501965713)",
     "rttiType": "AudioClip",
     "version": "0.1.0",
     "isVisibleInInspector": true,

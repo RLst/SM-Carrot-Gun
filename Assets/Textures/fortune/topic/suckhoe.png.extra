@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "suckhoe",
-    "objGuid": "Guid(12628291671611013605, 10222437644669891464)",
+    "objGuid": "Guid(21344816428836613, 3898593269896908452)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

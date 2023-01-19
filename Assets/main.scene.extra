@@ -2275,7 +2275,26 @@
     "expanded": true,
     "editable": true,
     "advanced": false,
-    "texture": "05f5fc81-ff12-cde9-5118-0f8dfc39879b"
+    "texture": "039e60d4-c995-b9fd-dcae-848e1a4cb53f"
+  },
+  {
+    "guid": {
+      "a": "ef9f1715-d93e-f6d3-e7b8-8866627588b2",
+      "b": ""
+    },
+    "objGuid": "Guid(17602727844858084462, 4015712626949719730)",
+    "extraType": "AnimationSequence",
+    "name": "Animation Sequence",
+    "rttiType": "AnimSeqComponent",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "displayKey": "component_aniseq",
+    "expanded": true,
+    "editable": true,
+    "sequence": "d1153895-412a-754a-a210-9f963b1c99ca",
+    "targetProperty": "Albedo",
+    "playMode": 1
   },
   {
     "guid": {
@@ -2707,7 +2726,7 @@
     "expanded": true,
     "editable": true,
     "advanced": false,
-    "texture": "4167ca29-f975-d3ba-5f69-f70d9dd892c5"
+    "texture": "8ffc76f7-8eaa-7ba2-a819-548fd7db15fb"
   },
   {
     "guid": {
@@ -2757,7 +2776,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "bbb71719-f43e-01d2-9be1-5565d1abcbdd"
+    "texture": "ee0bf15e-90d9-534c-7765-d1436bec0052"
   },
   {
     "guid": {
@@ -3619,7 +3638,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "1173a06f-f5fd-a455-e1a0-ed1ad1424c4c"
+    "texture": "7f069f4b-c9ca-de15-33c7-25b1d589303b"
   },
   {
     "guid": {
@@ -3652,7 +3671,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "0985aa15-ed8b-47e3-49f2-1d445ec4e646"
+    "texture": "8f333eef-e99f-a2a2-e4d1-2430c5a921f8"
   },
   {
     "guid": {
@@ -3685,7 +3704,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "7ead2545-1779-6632-ed35-3a3934ea148c"
+    "texture": "05a76d98-2d7d-4eca-160d-1be781e469b0"
   },
   {
     "guid": {
@@ -4464,7 +4483,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -4596,7 +4615,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
