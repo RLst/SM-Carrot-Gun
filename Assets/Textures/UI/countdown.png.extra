@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "countdown",
-    "objGuid": "Guid(17314067384463173358, 7607559261973043078)",
+    "objGuid": "Guid(2543534783941963141, 11062152801949128326)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
