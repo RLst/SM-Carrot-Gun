@@ -1,0 +1,18 @@
+[
+  {
+    "guid": {
+      "a": "d1153895-412a-754a-a210-9f963b1c99ca",
+      "b": ""
+    },
+    "extraType": "ResItemTextureSequence",
+    "name": "gun",
+    "objGuid": "Guid(12989089088511579098, 7641598757850051979)",
+    "rttiType": "AnimSeq",
+    "version": "0.1.0",
+    "isVisibleInInspector": true,
+    "hideInPanel": false,
+    "compressionType": 0,
+    "quality": 0,
+    "maxResolution": 512
+  }
+]

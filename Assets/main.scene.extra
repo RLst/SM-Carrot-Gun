@@ -728,114 +728,6 @@
   },
   {
     "guid": {
-      "a": "e7821016-dac0-7e56-679b-a5b5211cb0e8",
-      "b": ""
-    },
-    "objGuid": "Guid(12700626616886452108, 13126984876396287406)",
-    "extraType": "IFTransform2d",
-    "name": "2D Transform",
-    "eulerAngle": [
-      0,
-      0,
-      0
-    ],
-    "rotation": [
-      0,
-      0,
-      0,
-      1
-    ],
-    "rttiType": "IFTransform2d",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "displayKey": "inspector_add_2dtransform",
-    "expanded": true,
-    "editable": true
-  },
-  {
-    "guid": {
-      "a": "3d2e0ba3-44fe-a1a8-ac9f-ecdce081f9c0",
-      "b": ""
-    },
-    "objGuid": "Guid(4559286700855307812, 5886491549094320534)",
-    "extraType": "IFTransform2d",
-    "name": "2D Transform",
-    "eulerAngle": [
-      0,
-      0,
-      0
-    ],
-    "rotation": [
-      0,
-      0,
-      0,
-      1
-    ],
-    "rttiType": "IFTransform2d",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "displayKey": "inspector_add_2dtransform",
-    "expanded": true,
-    "editable": true
-  },
-  {
-    "guid": {
-      "a": "3fcd132b-33c7-3b52-cc49-7130fe131818",
-      "b": ""
-    },
-    "objGuid": "Guid(12701701664362498739, 10347510113735747002)",
-    "extraType": "IFTransform2d",
-    "name": "2D Transform",
-    "eulerAngle": [
-      0,
-      0,
-      0
-    ],
-    "rotation": [
-      0,
-      0,
-      0,
-      1
-    ],
-    "rttiType": "IFTransform2d",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "displayKey": "inspector_add_2dtransform",
-    "expanded": true,
-    "editable": true
-  },
-  {
-    "guid": {
-      "a": "37ec6d5b-26bc-8f25-8b3b-3a42c77a79c5",
-      "b": ""
-    },
-    "objGuid": "Guid(10973203407490458325, 7125757397597833360)",
-    "extraType": "IFTransform2d",
-    "name": "2D Transform",
-    "eulerAngle": [
-      0,
-      0,
-      0
-    ],
-    "rotation": [
-      0,
-      0,
-      0,
-      1
-    ],
-    "rttiType": "IFTransform2d",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "displayKey": "inspector_add_2dtransform",
-    "expanded": true,
-    "editable": true
-  },
-  {
-    "guid": {
       "a": "a41bc80f-ea46-bdd3-a2ff-3eefb4fe6fb9",
       "b": ""
     },
@@ -2397,7 +2289,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -3562,7 +3454,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "159ebd53-d63d-533c-2efe-b0de0257e212"
+    "texture": "515e41b3-e624-7e16-dc20-2f44fa867323"
   },
   {
     "guid": {
@@ -3576,7 +3468,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -3628,7 +3520,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "2d9f2121-3a7c-f78f-93cf-0b74b8769732"
+    "texture": "a65cd0a8-fd72-c165-024a-dde07574f43b"
   },
   {
     "guid": {
@@ -3661,7 +3553,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "712b3cbd-27db-3ced-db07-e90ff027fbcc"
+    "texture": "76744727-8dff-33da-1d0a-765ca2bd396c"
   },
   {
     "guid": {
@@ -3694,73 +3586,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "9f1683e5-63b9-764a-db96-3b286241db43"
-  },
-  {
-    "guid": {
-      "a": "435a71c9-b40b-d09e-ad6f-3012ba85db29",
-      "b": ""
-    },
-    "objGuid": "Guid(2110379130933546463, 732404966391903923)",
-    "extraType": "Entity",
-    "name": "Topic 3",
-    "rttiType": "Entity",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "expanded": false,
-    "type": "none"
-  },
-  {
-    "guid": {
-      "a": "71aafb94-bc7e-c0f9-5a7a-3a8c2a137582",
-      "b": ""
-    },
-    "objGuid": "Guid(957676003013239030, 6176849386037572247)",
-    "extraType": "IFSprite2d",
-    "name": "Image",
-    "rttiType": "IFSprite2d",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "displayKey": "inspector_add_image",
-    "expanded": true,
-    "editable": true,
-    "advanced": true,
-    "texture": "00000000-0000-0000-0000-00000000001e"
-  },
-  {
-    "guid": {
-      "a": "9923bb7e-32ec-d698-04c1-69617506e2f1",
-      "b": ""
-    },
-    "objGuid": "Guid(12916619411049969125, 11202092371247452298)",
-    "extraType": "Entity",
-    "name": "Topic 4",
-    "rttiType": "Entity",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "expanded": false,
-    "type": "none"
-  },
-  {
-    "guid": {
-      "a": "d2c0708b-1035-ff77-62e7-40c3319c20bb",
-      "b": ""
-    },
-    "objGuid": "Guid(2687857390755582882, 17370069540243528839)",
-    "extraType": "IFSprite2d",
-    "name": "Image",
-    "rttiType": "IFSprite2d",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "displayKey": "inspector_add_image",
-    "expanded": true,
-    "editable": true,
-    "advanced": true,
-    "texture": "00000000-0000-0000-0000-00000000001e"
+    "texture": "fa864090-6fd8-3e8d-6118-9fe575226ce5"
   },
   {
     "guid": {
@@ -3793,7 +3619,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "e5459fca-baf0-8f3d-fc0c-5c23d7c398ef"
+    "texture": "1173a06f-f5fd-a455-e1a0-ed1ad1424c4c"
   },
   {
     "guid": {
@@ -3860,72 +3686,6 @@
     "editable": true,
     "advanced": true,
     "texture": "7ead2545-1779-6632-ed35-3a3934ea148c"
-  },
-  {
-    "guid": {
-      "a": "abbd6ce1-e99b-eca4-615c-92dae79d4857",
-      "b": ""
-    },
-    "objGuid": "Guid(11982863700688327961, 106968896763961744)",
-    "extraType": "Entity",
-    "name": "Message 3",
-    "rttiType": "Entity",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "expanded": true,
-    "type": "none"
-  },
-  {
-    "guid": {
-      "a": "255f720a-21a4-eb0f-46b4-d6ec7ddf3238",
-      "b": ""
-    },
-    "objGuid": "Guid(4417277125974533320, 4135614915414934196)",
-    "extraType": "IFSprite2d",
-    "name": "Image",
-    "rttiType": "IFSprite2d",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "displayKey": "inspector_add_image",
-    "expanded": true,
-    "editable": true,
-    "advanced": true,
-    "texture": "00000000-0000-0000-0000-00000000001e"
-  },
-  {
-    "guid": {
-      "a": "efccfda3-d96e-e7ba-6a59-a797a6a0e855",
-      "b": ""
-    },
-    "objGuid": "Guid(5714218642000130079, 17027924283024041108)",
-    "extraType": "Entity",
-    "name": "Message 4",
-    "rttiType": "Entity",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "expanded": true,
-    "type": "none"
-  },
-  {
-    "guid": {
-      "a": "72183d0a-84de-4b88-92d8-a67a5df38bc3",
-      "b": ""
-    },
-    "objGuid": "Guid(5930109286226749651, 643236240845411204)",
-    "extraType": "IFSprite2d",
-    "name": "Image",
-    "rttiType": "IFSprite2d",
-    "version": "0.1.0",
-    "isVisibleInInspector": true,
-    "hideInPanel": false,
-    "displayKey": "inspector_add_image",
-    "expanded": true,
-    "editable": true,
-    "advanced": true,
-    "texture": "00000000-0000-0000-0000-00000000001e"
   },
   {
     "guid": {
@@ -4704,7 +4464,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -4952,7 +4712,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -5245,7 +5005,7 @@
     "expanded": true,
     "editable": true,
     "advanced": false,
-    "texture": "f089fee7-6f5d-ab21-86fa-22b127ca3b61"
+    "texture": "55e0f3cd-288d-7dce-6377-5e060ab0a8e6"
   },
   {
     "guid": {
