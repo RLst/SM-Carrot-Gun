@@ -1,6 +1,6 @@
 {
-  "name": "Carrot Gun",
-  "lastModified": "Fri, 20 Jan 2023 03:11:48 GMT",
+  "name": "Tho Ban Ca",
+  "lastModified": "Fri, 20 Jan 2023 06:53:15 GMT",
   "version": "1.9.1",
   "toolName": "Effect House",
   "projectID": "0439cb28-5421-bd9b-6248-47ac46895316",
@@ -75,9 +75,9 @@
     "62": "Layer 62",
     "63": "Layer 63"
   },
-  "durationToCreate": 1369093440,
-  "durationCreation": 596165636,
-  "durationBackground": 407084570,
+  "durationToCreate": 1382380022,
+  "durationCreation": 609410403,
+  "durationBackground": 418384657,
   "effectHint": "smile",
   "templateID": "templateID_none",
   "overwriteBuiltinMakeup": false,

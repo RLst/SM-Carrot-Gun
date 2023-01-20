@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "banbe",
-    "objGuid": "Guid(16807469283233464779, 17360069535103289012)",
+    "objGuid": "Guid(10469696200221130790, 7054368215184433812)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

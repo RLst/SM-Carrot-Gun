@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "golddust_fx",
-    "objGuid": "Guid(9961963612285752878, 702682588931041160)",
+    "objGuid": "Guid(2685981292803393262, 18273302747526090405)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,
