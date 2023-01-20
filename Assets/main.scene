@@ -218,8 +218,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/d1153895-412a-754a-a210-9f963b1c99ca/31.png}
-        imageAtlas: {localId: 1, path: d1153895-412a-754a-a210-9f963b1c99ca--31.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/d1153895-412a-754a-a210-9f963b1c99ca/7.png}
+        imageAtlas: {localId: 1, path: d1153895-412a-754a-a210-9f963b1c99ca--7.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1057,8 +1057,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/f46736c3-1ae5-29b9-5887-63a82be0ebd5/4.png}
-        imageAtlas: {localId: 1, path: f46736c3-1ae5-29b9-5887-63a82be0ebd5--4.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/f46736c3-1ae5-29b9-5887-63a82be0ebd5/26.png}
+        imageAtlas: {localId: 1, path: f46736c3-1ae5-29b9-5887-63a82be0ebd5--26.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1127,8 +1127,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/f46736c3-1ae5-29b9-5887-63a82be0ebd5/4.png}
-        imageAtlas: {localId: 1, path: f46736c3-1ae5-29b9-5887-63a82be0ebd5--4.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/f46736c3-1ae5-29b9-5887-63a82be0ebd5/26.png}
+        imageAtlas: {localId: 1, path: f46736c3-1ae5-29b9-5887-63a82be0ebd5--26.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -1452,8 +1452,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/f46736c3-1ae5-29b9-5887-63a82be0ebd5/4.png}
-        imageAtlas: {localId: 1, path: f46736c3-1ae5-29b9-5887-63a82be0ebd5--4.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/f46736c3-1ae5-29b9-5887-63a82be0ebd5/26.png}
+        imageAtlas: {localId: 1, path: f46736c3-1ae5-29b9-5887-63a82be0ebd5--26.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -3449,8 +3449,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/12.png}
-        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--12.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/14.png}
+        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--14.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -3519,8 +3519,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/12.png}
-        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--12.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/14.png}
+        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--14.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -3589,8 +3589,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/12.png}
-        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--12.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/58f11c58-269a-151c-4fbe-3f7c14244181/14.png}
+        imageAtlas: {localId: 1, path: 58f11c58-269a-151c-4fbe-3f7c14244181--14.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -3659,8 +3659,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/8b77392b-b75c-8c1f-1eae-3fa8b6927ee6/12.png}
-        imageAtlas: {localId: 1, path: 8b77392b-b75c-8c1f-1eae-3fa8b6927ee6--12.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/8b77392b-b75c-8c1f-1eae-3fa8b6927ee6/9.png}
+        imageAtlas: {localId: 1, path: 8b77392b-b75c-8c1f-1eae-3fa8b6927ee6--9.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -3882,8 +3882,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/ed30c408-c425-d470-ad18-3643ae239057/38.png}
-        imageAtlas: {localId: 1, path: ed30c408-c425-d470-ad18-3643ae239057--38.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/ed30c408-c425-d470-ad18-3643ae239057/14.png}
+        imageAtlas: {localId: 1, path: ed30c408-c425-d470-ad18-3643ae239057--14.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType
@@ -3952,8 +3952,8 @@ entities:
         blendMode:
           __class: IFBlendMode
           value: Normal
-        texture: {localId: 1, path: Library/Artifact/ed30c408-c425-d470-ad18-3643ae239057/38.png}
-        imageAtlas: {localId: 1, path: ed30c408-c425-d470-ad18-3643ae239057--38.imageatlas}
+        texture: {localId: 1, path: Library/Artifact/ed30c408-c425-d470-ad18-3643ae239057/14.png}
+        imageAtlas: {localId: 1, path: ed30c408-c425-d470-ad18-3643ae239057--14.imageatlas}
         atlasIndex: 0
         filledType:
           __class: IFFilledType

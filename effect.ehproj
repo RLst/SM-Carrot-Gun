@@ -1,6 +1,6 @@
 {
   "name": "Tho Ban",
-  "lastModified": "Fri, 20 Jan 2023 18:06:13 GMT",
+  "lastModified": "Fri, 20 Jan 2023 18:20:48 GMT",
   "version": "1.9.1",
   "toolName": "Effect House",
   "projectID": "0439cb28-5421-bd9b-6248-47ac46895316",
@@ -75,9 +75,9 @@
     "62": "Layer 62",
     "63": "Layer 63"
   },
-  "durationToCreate": 1422758101,
-  "durationCreation": 625384504,
-  "durationBackground": 432830622,
+  "durationToCreate": 1423632962,
+  "durationCreation": 626259365,
+  "durationBackground": 433452191,
   "effectHint": "smile",
   "templateID": "templateID_none",
   "overwriteBuiltinMakeup": false,
