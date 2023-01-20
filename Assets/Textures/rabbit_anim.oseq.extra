@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "rabbit_anim",
-    "objGuid": "Guid(1245465332299417696, 6785424153101725615)",
+    "objGuid": "Guid(5138472448498811806, 11798520484063198126)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

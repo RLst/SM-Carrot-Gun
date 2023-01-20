@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "gametitle",
-    "objGuid": "Guid(14287745664616389714, 5991681357142139835)",
+    "objGuid": "Guid(4846727921947166558, 14890246744425692316)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,

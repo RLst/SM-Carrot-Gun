@@ -1,6 +1,6 @@
 {
-  "name": "Tho Ban Ca",
-  "lastModified": "Fri, 20 Jan 2023 06:53:15 GMT",
+  "name": "Tho Ban",
+  "lastModified": "Fri, 20 Jan 2023 18:06:13 GMT",
   "version": "1.9.1",
   "toolName": "Effect House",
   "projectID": "0439cb28-5421-bd9b-6248-47ac46895316",
@@ -75,9 +75,9 @@
     "62": "Layer 62",
     "63": "Layer 63"
   },
-  "durationToCreate": 1382380022,
-  "durationCreation": 609410403,
-  "durationBackground": 418384657,
+  "durationToCreate": 1422758101,
+  "durationCreation": 625384504,
+  "durationBackground": 432830622,
   "effectHint": "smile",
   "templateID": "templateID_none",
   "overwriteBuiltinMakeup": false,

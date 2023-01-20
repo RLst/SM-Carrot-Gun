@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "facemessagepanel",
-    "objGuid": "Guid(7585380537252849177, 18024167620131675010)",
+    "objGuid": "Guid(3407930212629306515, 2379906017746387133)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
