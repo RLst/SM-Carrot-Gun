@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "fishglow_anim",
-    "objGuid": "Guid(12051678144088785721, 119446420526502308)",
+    "objGuid": "Guid(10972757697102447022, 2269830506044817299)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

@@ -2256,7 +2256,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -2341,7 +2341,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {
@@ -2726,7 +2726,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "94d2091f-8016-ce88-13f2-35095444998d"
+    "texture": "83c9b3ee-6609-d791-8e58-2af7c5a6004a"
   },
   {
     "guid": {
@@ -3435,7 +3435,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -3468,7 +3468,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -3501,7 +3501,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": false,
+    "expanded": true,
     "type": "none"
   },
   {
@@ -3553,7 +3553,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "a318cb2f-ed74-bac8-537e-2257df8ce991"
+    "texture": "af4acc2a-0aec-75da-aad8-acfb86940872"
   },
   {
     "guid": {
@@ -3586,7 +3586,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "72bd1573-26b3-b522-de9c-5ae4b7566448"
+    "texture": "af4acc2a-0aec-75da-aad8-acfb86940872"
   },
   {
     "guid": {
@@ -3619,7 +3619,7 @@
     "expanded": true,
     "editable": true,
     "advanced": true,
-    "texture": "0b1a14c6-c220-c1e7-7f44-d440ccb40917"
+    "texture": "af4acc2a-0aec-75da-aad8-acfb86940872"
   },
   {
     "guid": {
@@ -4077,7 +4077,7 @@
     "version": "0.1.0",
     "isVisibleInInspector": true,
     "hideInPanel": false,
-    "expanded": true,
+    "expanded": false,
     "type": "none"
   },
   {

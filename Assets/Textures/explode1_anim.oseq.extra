@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemTextureSequence",
     "name": "explode1_anim",
-    "objGuid": "Guid(9244661930391580763, 12201554846888333501)",
+    "objGuid": "Guid(1891565139109952939, 15544053452312892046)",
     "rttiType": "AnimSeq",
     "version": "0.1.0",
     "isVisibleInInspector": true,

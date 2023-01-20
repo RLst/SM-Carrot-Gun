@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemMP3",
     "name": "shoot",
-    "objGuid": "Guid(16303456057936670153, 88638216610711434)",
+    "objGuid": "Guid(16954795141174075020, 14254322188492531365)",
     "rttiType": "AudioClip",
     "version": "0.1.0",
     "isVisibleInInspector": true,

@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemPNGImage",
     "name": "tutorial",
-    "objGuid": "Guid(5136325656094075992, 8930455245228845740)",
+    "objGuid": "Guid(17960877319461390577, 8793181300490007714)",
     "rttiType": "Texture2D",
     "version": "0.1.0",
     "isVisibleInInspector": true,
