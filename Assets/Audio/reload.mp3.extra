@@ -6,7 +6,7 @@
     },
     "extraType": "ResItemMP3",
     "name": "reload",
-    "objGuid": "Guid(17892774308144306051, 13672001627281888414)",
+    "objGuid": "Guid(7514997604843231697, 4024146588605268903)",
     "rttiType": "AudioClip",
     "version": "0.1.0",
     "isVisibleInInspector": true,
